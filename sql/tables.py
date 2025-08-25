@@ -97,5 +97,5 @@ class DBLoader(DBConnection):
             except IntegrityError:
                 # Ignore Duplicates by rolling back the transaction
                 self.conn.rollback()
-                logger.warning(f"Duplicate articles found")
+                logger.warning(f"Duplicate articles found in {table_name} table. Skipping insertion.")
         self.conn.commit()
