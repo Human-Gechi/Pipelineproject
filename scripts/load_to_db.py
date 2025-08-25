@@ -1,10 +1,11 @@
+#Importing necessary libraries
 import os
 import sys
 
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
-from sql.tables import DBLoader,DBTableManager
-from scripts.fetch_videos import NEWS
-from logsfolder.logger import logger
+from sql.tables import DBLoader,DBTableManager # Importing DB objects
+from scripts.fetch_videos import NEWS # fetching the class News from the scripts folder
+from logsfolder.logger import logger #Importing logger variable from The Logsfolder
 
 # Initializing database objects
 DBTableManager().create_table()
@@ -12,6 +13,7 @@ logger.info("Database tables created or verified.")
 db_loader = DBLoader()
 news = NEWS()
 
+#Inserting Data into their respective tables by providing the category name
 article1 = news.fetch_category("science")
 print(db_loader.insert_articles("science", article1))
 logger.info(f"Inserting articles into database: {len(article1)} science articles found.")
