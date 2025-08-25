@@ -1,2 +1,3 @@
 .env
-client_secret_871961067924-7o9umip44qcbkplm6gnspr4ad8uh1224.apps.googleusercontent.com.json
+__pycache__/
+docker-compose.yaml

@@ -1,0 +1,8 @@
+2025-08-25 02:09:36,231 - INFO - Database connection established.
+2025-08-25 02:09:36,279 - INFO - Tables created successfully!
+2025-08-25 02:09:36,279 - INFO - Database tables created or verified.
+2025-08-25 02:09:36,390 - INFO - Database connection established.
+2025-08-25 02:09:37,305 - INFO - Inserting articles into database: 60 science articles found.
+2025-08-25 02:09:38,099 - INFO - Inserting articles into database: 45 technology articles found.
+2025-08-25 02:09:38,928 - INFO - Inserting articles into database: 60 health articles found.
+2025-08-25 02:09:39,593 - INFO - Inserting articles into database: 39 entertainment articles found.
