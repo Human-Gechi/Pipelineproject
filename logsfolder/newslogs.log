@@ -1,8 +1,225 @@
-2025-08-25 02:09:36,231 - INFO - Database connection established.
-2025-08-25 02:09:36,279 - INFO - Tables created successfully!
-2025-08-25 02:09:36,279 - INFO - Database tables created or verified.
-2025-08-25 02:09:36,390 - INFO - Database connection established.
-2025-08-25 02:09:37,305 - INFO - Inserting articles into database: 60 science articles found.
-2025-08-25 02:09:38,099 - INFO - Inserting articles into database: 45 technology articles found.
-2025-08-25 02:09:38,928 - INFO - Inserting articles into database: 60 health articles found.
-2025-08-25 02:09:39,593 - INFO - Inserting articles into database: 39 entertainment articles found.
+2025-08-26 23:03:55,123 - INFO - Database connection established.
+2025-08-26 23:03:55,156 - INFO - Tables created successfully!
+2025-08-26 23:03:55,156 - INFO - Database tables created or verified.
+2025-08-26 23:03:55,221 - INFO - Database connection established.
+2025-08-26 23:03:56,377 - INFO - Inserted article into science: Buried Secrets Reveal How Humans Changed the Great Salt Lake Forever - SciTechDaily
+2025-08-26 23:03:56,378 - INFO - Inserted article into science: ‘Ten Martini’ Proof Uses Number Theory to Explain Quantum Fractals - Quanta Magazine
+2025-08-26 23:03:56,379 - INFO - Inserted article into science: "Shocking Spiral Secret": Webb Telescope Shows 60% Galaxies Turning Clockwise, Stirring Alarming Theory of Universe Inside Black Hole - Rude Baguette
+2025-08-26 23:03:56,380 - INFO - Inserted article into science: Dark matter could create black holes that devour exoplanets from within - Space
+2025-08-26 23:03:56,381 - INFO - Inserted article into science: Repetitive radio bursts from deep space hit Earth hundreds of times in a matter of minutes - Earth.com
+2025-08-26 23:03:56,382 - INFO - Inserted article into science: The World’s First Human Hybrid? Ancient Fossil Stuns Scientists - SciTechDaily
+2025-08-26 23:03:56,383 - INFO - Inserted article into science: Flash From Nearby Galaxy Brightest of Its Kind Ever Seen - ScienceAlert
+2025-08-26 23:03:56,384 - INFO - Inserted article into science: ‘We’ve Never Seen Anything Like It’: 300,000-Year-Old Chinese Dental Fossils Reveal an Unknown Hybrid Ancestor - Indian Defence Review
+2025-08-26 23:03:56,385 - INFO - Inserted article into science: Quantum Computing News: UCLA Unveils New Tech, Quantinuum Targets $10 Billion, IonQ Gains Morgan Stanley - TipRanks
+2025-08-26 23:03:56,386 - INFO - Inserted article into science: Juice team resolves anomaly on approach to Venus - European Space Agency
+2025-08-26 23:03:56,387 - INFO - Inserted article into science: My Husband Pushed Us to Live Closer to His Family. Now He’s Complaining About the One Thing I Ask for in Return. - Slate
+2025-08-26 23:03:56,388 - INFO - Inserted article into science: NASA's Psyche asteroid probe beams home haunting view of distant Earth (photo) - Space
+2025-08-26 23:03:56,389 - INFO - Inserted article into science: Why can't we walk through walls if atoms are mostly empty space? - Live Science
+2025-08-26 23:03:56,390 - INFO - Inserted article into science: Mysterious X-37B spaceplane flies again, with 'quantum GPS' - theregister.com
+2025-08-26 23:03:56,391 - INFO - Inserted article into science: Scientists Unlock Quantum Computing Power by Entangling Vibrations in a Single Atom - SciTechDaily
+2025-08-26 23:03:56,392 - INFO - Inserted article into science: The Bizarre Material No Container Can Hold: Scientists Create Liquid Carbon in the Lab for the First Time - SciTechDaily
+2025-08-26 23:03:56,393 - INFO - Inserted article into science: NASA supercomputers reveal disturbing possibility tied to Greenland's most active glacier: 'Our approach is applicable to any region' - yahoo.com
+2025-08-26 23:03:56,393 - INFO - Inserted article into science: Shadow Realm at Black Hole's Edge Simulated For The First Time - ScienceAlert
+2025-08-26 23:03:56,396 - INFO - Inserted article into science: NASA launch of 3 rockets with colorful vapor trails may be seen from several eastern states - NJ.com
+2025-08-26 23:03:56,397 - INFO - Inserted article into science: 100-year-old chemistry rule proven false, textbook updates needed - Earth.com
+2025-08-26 23:03:56,398 - INFO - Inserted article into science: Astronomers have glimpsed the core of a dying star—confirming theories of how atoms are made - Phys.org
+2025-08-26 23:03:56,399 - INFO - Inserted article into science: What If the Big Bang Wasn’t the Beginning? Supercomputers Search for Clues - SciTechDaily
+2025-08-26 23:03:56,400 - INFO - Inserted article into science: DNA from extinct human cousins helped early humans colonize the Americas - Earth.com
+2025-08-26 23:03:56,401 - INFO - Inserted article into science: Shocking Footage Reveals the Most Deadly Hunting Technique Ever Seen in Orcas! - Indian Defence Review
+2025-08-26 23:03:56,403 - INFO - Inserted article into science: Our primate ancestors evolved in the cold—not the tropics - Phys.org
+2025-08-26 23:03:56,403 - INFO - Inserted article into science: 30 Years of Satellite Data Confirm Predictions from Early Models of Sea Level Rise - Slashdot
+2025-08-26 23:03:56,404 - INFO - Inserted article into science: Introducing 'goldene': the world's newest supermaterial that is one atom thick - Earth.com
+2025-08-26 23:03:56,405 - INFO - Inserted article into science: NASA Researchers Show How Ceres Could Have Once Been Habitable - Universe Today
+2025-08-26 23:03:56,406 - INFO - Inserted article into science: Watch SpaceX Dragon cargo capsule arrive at the ISS on Aug. 25 with 5,000 pounds of supplies - Space
+2025-08-26 23:03:56,407 - INFO - Inserted article into science: Satellites Spotted a Strange Glow in the Ocean, and Scientists Have a Wild Explanation - Futurism
+2025-08-26 23:03:56,408 - INFO - Inserted article into science: Scientists Sequenced the DNA of the ‘Last Neanderthal’—and It Alters Human History - menshealth.com
+2025-08-26 23:03:56,409 - INFO - Inserted article into science: What a caterpillar’s quiet pose tells us about the biology of pain - Interesting Engineering
+2025-08-26 23:03:56,409 - INFO - Inserted article into science: Alien aurora: Researchers discover new plasma wave in Jupiter's aurora - Phys.org
+2025-08-26 23:03:56,411 - INFO - Inserted article into science: "I Feel Sick Inside": Scientists Reveal Rare Mineral Discovery Suggests Colossal Ocean Hidden Beneath Earth Could Rewrite Human Survival - Rude Baguette
+2025-08-26 23:03:56,411 - INFO - Inserted article into science: A Physicist Wants to Turn Jupiter’s Largest Moon Into a Gigantic Dark Matter Detector - Gizmodo
+2025-08-26 23:03:56,412 - INFO - Inserted article into science: Farmers scramble after pantry staple crop becomes nearly impossible to grow: 'We lost ... trees totally to drought, completely dead' - yahoo.com
+2025-08-26 23:03:56,413 - INFO - Inserted article into science: 3I/ATLAS is Large and Releases Carbon Dioxide (CO2) - Avi Loeb – Medium
+2025-08-26 23:03:56,414 - INFO - Inserted article into science: Black holes that transform matter into dark energy could solve 'cosmic hiccups' mystery - Space
+2025-08-26 23:03:56,415 - INFO - Inserted article into science: Longest canyon in the solar system reveals new secrets — Space photo of the week - Live Science
+2025-08-26 23:03:56,415 - INFO - Inserted article into science: What is the world's slowest animal? - Live Science
+2025-08-26 23:03:56,417 - INFO - Inserted article into science: Planet Y: Signs of a world hiding in our Solar System - Earth.com
+2025-08-26 23:03:56,418 - INFO - Inserted article into science: Jupiter’s core isn’t what we thought - ScienceDaily
+2025-08-26 23:03:56,419 - INFO - Inserted article into science: I Asked Experts About the Hidden Moon Discovered in Our Solar System, and Why It’s Unlike Any Other - Screen Rant
+2025-08-26 23:03:56,420 - INFO - Inserted article into science: Six-Planet ‘Parade’ On Monday Is A Last Chance To See Mercury - Forbes
+2025-08-26 23:03:56,421 - INFO - Inserted article into science: NASA’s Webb Telescope Discovers 300 Mysterious Objects That Shouldn’t Exist - SciTechDaily
+2025-08-26 23:03:56,422 - INFO - Inserted article into science: Black Moon in August: What it is, what it isn't, and how to ‘see’ it - Mashable
+2025-08-26 23:03:56,423 - INFO - Inserted article into science: Moon phase today: What the moon will look like on August 24, 2025 - Mashable
+2025-08-26 23:03:56,424 - INFO - Inserted article into science: A BYU student's origami discovery could lead to a host of engineering solutions - Deseret News
+2025-08-26 23:03:56,425 - INFO - Inserted article into science: A fisherman discovers a black iceberg off the northeast coast of Canada, leaving scientists in shock. - evidencenetwork.ca
+2025-08-26 23:03:56,426 - INFO - Inserted article into science: North America Is Sinking: Geologists Warn of Imminent Catastrophe - Indian Defence Review
+2025-08-26 23:03:56,427 - INFO - Inserted article into science: Why do some animals live just days while others live thousands of years? Scientists think they know - Earth.com
+2025-08-26 23:03:56,428 - INFO - Inserted article into science: NASA telescope's image of a creepy cosmic object just got stranger - Mashable
+2025-08-26 23:03:56,432 - INFO - Inserting articles into database: 52 science articles found.
+2025-08-26 23:03:57,279 - INFO - Inserted article into technology: Google Confirms Most Gmail Users Must Change Passwords - Forbes
+2025-08-26 23:03:57,281 - INFO - Inserted article into technology: Google Nest Camera and Doorbell leak shows off new colors and 2K video recording - The Verge
+2025-08-26 23:03:57,282 - INFO - Inserted article into technology: Demonschool Gets Last-Minute Delay To Avoid Silksong - Nintendo Life
+2025-08-26 23:03:57,283 - INFO - Inserted article into technology: Nintendo Reportedly Pushing Devs To Release On Switch 1 Instead Of Sharing Switch 2 Dev Kits - Kotaku
+2025-08-26 23:03:57,284 - INFO - Inserted article into technology: New Apple TV 4K will get my upgrade for one feature alone - 9to5Mac
+2025-08-26 23:03:57,285 - INFO - Inserted article into technology: Like Intel before it, AMD blames motherboard makers for burnt-out CPUs - Ars Technica
+2025-08-26 23:03:57,286 - INFO - Inserted article into technology: NotebookLM’s Video Overview feature now supports 80 languages - TechCrunch
+2025-08-26 23:03:57,287 - INFO - Inserted article into technology: YouTube secretly tested AI video enhancement without notifying creators - Ars Technica
+2025-08-26 23:03:57,288 - INFO - Inserted article into technology: Years After Its Announcement, Cyberpunk Action Game Replaced Finally Has A Release Window - GameSpot
+2025-08-26 23:03:57,288 - INFO - Inserted article into technology: Apple’s latest TV+ subscription price hike might open the door to this opportunity - 9to5Mac
+2025-08-26 23:03:57,290 - INFO - Inserted article into technology: Google rolls out new pill-shaped Gemini overlay on Android - 9to5Google
+2025-08-26 23:03:57,291 - INFO - Inserted article into technology: iOS 26 beta 8 now available - 9to5Mac
+2025-08-26 23:03:57,291 - INFO - Inserted article into technology: Overwatch 2 Developers Say They’re Leaning Into What Works - aftermath.site
+2025-08-26 23:03:57,292 - INFO - Inserted article into technology: Google will require developer verification to install Android apps, including sideloading - 9to5Google
+2025-08-26 23:03:57,294 - INFO - Inserted article into technology: How One Magic: The Gathering Designer Broke All the Rules and Created a Sensation - IGN
+2025-08-26 23:03:57,294 - INFO - Inserted article into technology: How chatbot design choices are fueling AI delusions - TechCrunch
+2025-08-26 23:03:57,296 - INFO - Inserted article into technology: Gears Of War Reloaded: Release Date, Release Times & Download Size On Xbox Game Pass - Pure Xbox
+2025-08-26 23:03:57,296 - INFO - Inserted article into technology: John Carpenter's Toxic Commando Puts an '80s Horror Spin on Left 4 Dead - IGN
+2025-08-26 23:03:57,297 - INFO - Inserted article into technology: Digital Eclipse reveals why Mortal Kombat Gold isn't part of the Mortal Kombat: Legacy Kollection - EventHubs
+2025-08-26 23:03:57,297 - INFO - Inserted article into technology: Hands-On: Kirby Air Riders may be deceptively deep despite its simple controls - Video Games Chronicle
+2025-08-26 23:03:57,299 - INFO - Inserted article into technology: The new Fi Mini pet tracker has GPS, and it’s barely bigger than an AirTag - The Verge
+2025-08-26 23:03:57,300 - INFO - Inserted article into technology: Review: 2025 Knolly Warden - Pushing the Limits of Long, Low, & Slack - Pinkbike
+2025-08-26 23:03:57,301 - INFO - Inserted article into technology: Amazon's Exclusive Clair Obscur: Expedition 33 Mirror Edition Is Up for Preorder - IGN
+2025-08-26 23:03:57,302 - INFO - Inserted article into technology: Teens Who Practice 'Fawning' Aren't Just Being Polite—Why Parents Should Intervene - yahoo.com
+2025-08-26 23:03:57,305 - INFO - Inserted article into technology: How WoW’s next expansion is reshaping player identity - Windows Central
+2025-08-26 23:03:57,305 - INFO - Inserted article into technology: iPhone 17 Pro might gain unique new battery advantage, per rumor - 9to5Mac
+2025-08-26 23:03:57,307 - INFO - Inserted article into technology: The Guitarist Who Races His Porsche Through the Canyons of Southern California - The Wall Street Journal
+2025-08-26 23:03:57,307 - INFO - Inserted article into technology: Apple might opt for a curved glassed design for 20th anniversary iPhone - TechCrunch
+2025-08-26 23:03:57,308 - INFO - Inserted article into technology: Your TV's USB port has 5 hidden superpowers: Here's how I take advantage of mine - ZDNET
+2025-08-26 23:03:57,308 - INFO - Inserted article into technology: AirPods Pro 3 just got the launch update we were all hoping for: report - 9to5Mac
+2025-08-26 23:03:57,310 - INFO - Inserted article into technology: Corpse Party II: Darkness Distortion adds PS5 version, delayed to 2026 - Gematsu
+2025-08-26 23:03:57,311 - INFO - Inserted article into technology: The Expanse: Osiris Reborn Is Our Best Hope for a New BioWare-Style RPG - IGN
+2025-08-26 23:03:57,312 - INFO - Inserted article into technology: Wreathe Yourself in Everlasting Opulence — Diablo Immortal - Blizzard News
+2025-08-26 23:03:57,312 - INFO - Inserted article into technology: Pokémon Go finally expands trainer level cap - Eurogamer
+2025-08-26 23:03:57,314 - INFO - Inserted article into technology: A Nintendo Direct is reportedly planned for mid-September - Video Games Chronicle
+2025-08-26 23:03:57,315 - INFO - Inserted article into technology: At $2,999, Is This 1998 Volvo V70 An Art Car That's A Deal? - Jalopnik
+2025-08-26 23:03:57,316 - INFO - Inserted article into technology: Meta to Debut Smart Glasses at September’s ‘Connect’ Event - PYMNTS.com
+2025-08-26 23:03:57,316 - INFO - Inserted article into technology: Galaxy Tab S10 Lite: A Value-Packed Tablet for Everyday Needs - Samsung Global Newsroom
+2025-08-26 23:03:57,318 - INFO - Inserted article into technology: Architect of Sony's disastrous 'live-service push' says failures are good actually, because now there's "more rigorous and more frequent testing" - GamesRadar+
+2025-08-26 23:03:57,318 - INFO - Inserted article into technology: Xbox Series S Can’t Run Turok: Origins at 60 FPS, Says Developer - Wccftech
+2025-08-26 23:03:57,320 - INFO - Inserted article into technology: Review: Shinobi: Art of Vengeance (PS5) - A Gorgeous, Triumphant Return for SEGA's Ninja Series - Push Square
+2025-08-26 23:03:57,320 - INFO - Inserted article into technology: Rumor: Apple testing iPhone 4-like case for iPhone 17 Air - 9to5Mac
+2025-08-26 23:03:57,321 - INFO - Inserted article into technology: Shopper surprised after noticing sticker on back of brand-new kitchenware purchased at local thrift store: 'Such a great find' - yahoo.com
+2025-08-26 23:03:57,322 - INFO - Inserted article into technology: Two All-New iPhone 17 Colors Seemingly Confirmed - MacRumors
+2025-08-26 23:03:57,323 - INFO - Inserted article into technology: Forza Horizon 6 Will Apparently Be Revealed At Tokyo Game Show As Japan Rumours Circulate - Pure Xbox
+2025-08-26 23:03:57,324 - INFO - Inserted article into technology: 'On Borderlands 3, in Our Worst Hours, It Sometimes Felt Like Parody' — Gearbox Explains Borderlands 4's More Grounded Story - IGN
+2025-08-26 23:03:57,325 - INFO - Inserted article into technology: Video: So Just How Might These Third-Party Games Run On Switch 2? - Nintendo Life
+2025-08-26 23:03:57,326 - INFO - Inserted article into technology: Japan’s national library says it won’t be preserving Switch 2 Game-Key Cards - Video Games Chronicle
+2025-08-26 23:03:57,327 - INFO - Inserted article into technology: How to get Dondozo and shiny Dondozo in Pokémon Go - Eurogamer
+2025-08-26 23:03:57,327 - INFO - Inserted article into technology: Transparent Tribe Targets Indian Govt With Weaponized Desktop Shortcuts via Phishing - The Hacker News
+2025-08-26 23:03:57,328 - INFO - Inserted article into technology: We wrestled with flagship OLEDs, giant Mini LEDs, new special edition hi-fi speakers and more last week - What Hi-Fi?
+2025-08-26 23:03:57,329 - INFO - Inserted article into technology: Metal Gear Solid Delta Snake Eater Changes and Differences - IGN
+2025-08-26 23:03:57,330 - INFO - Inserted article into technology: This new Pixel 10 feature makes weather reports even more personal, but not for everyone - Android Authority
+2025-08-26 23:03:57,331 - INFO - Inserted article into technology: Nintendo Switch eShop deals - lowest prices ever for OlliOlli World, The Legend of Heroes, more - Nintendo Everything
+2025-08-26 23:03:57,333 - INFO - Inserted article into technology: Deals: the Google Pixel 10 series, Watch 4 and Buds 2a are now on pre-order - GSMArena.com news - GSMArena.com
+2025-08-26 23:03:57,334 - INFO - Inserted article into technology: Bandai Namco's Big TGS Booth Includes Code Vein 2, Digimon, More - Push Square
+2025-08-26 23:03:57,335 - INFO - Inserted article into technology: Apple eyes Google Gemini for Siri upgrade - Mashable
+2025-08-26 23:03:57,336 - INFO - Inserted article into technology: Silksong excitement has seen Hollow Knight's concurrent Steam peak record smashed over and over again - Eurogamer
+2025-08-26 23:03:57,337 - INFO - Inserted article into technology: @nascarcasm: Fake texts to Daytona winner Blaney | NASCAR - NASCAR.com
+2025-08-26 23:03:57,339 - INFO - Inserted article into technology: OTM Open Thread 8/24: So good, so good, so good (so good?) - Over the Monster
+2025-08-26 23:03:57,341 - INFO - Inserted article into technology: Local Restaurant Exhausted as Google AI Keeps Telling Customers About Daily Specials That Don't Exist - Futurism
+2025-08-26 23:03:57,341 - INFO - Inserted article into technology: My Husband Thinks Our Daughter Is Completely Untalented. And He Isn’t Shy About Showing It. - Slate
+2025-08-26 23:03:57,343 - INFO - Inserted article into technology: This 92-year-old sprinter has the muscle cells of someone in their 20s - The Washington Post
+2025-08-26 23:03:57,343 - INFO - Inserted article into technology: A MacBook Air for under $200? Yes, it's legit. - Mashable
+2025-08-26 23:03:57,344 - INFO - Inserted article into technology: I was skeptical about the ROG Xbox Ally, but this one feature has me excited - Tom's Guide
+2025-08-26 23:03:57,350 - INFO - Inserting articles into database: 65 technology articles found.
+2025-08-26 23:03:58,494 - INFO - Inserted article into health: How the cavefish lost its eyes—again and again - Ars Technica
+2025-08-26 23:03:58,497 - INFO - Inserted article into health: What We’ve Learned from the Texas Measles Outbreak - AOL.com
+2025-08-26 23:03:58,500 - INFO - Inserted article into health: Seattle-area hospitals facing mild summer COVID surge - The Seattle Times
+2025-08-26 23:03:58,502 - INFO - Inserted article into health: Doctors say these 3 choices at 60 determine if you'll suffer or thrive at 80 - VegOut
+2025-08-26 23:03:58,504 - INFO - Inserted article into health: Hair styling releases billions of toxic nanoparticles that then enter your body - Earth.com
+2025-08-26 23:03:58,506 - INFO - Inserted article into health: 8 Unsettling Signs “Soul Ties” Still Grip You - Bored Panda
+2025-08-26 23:03:58,508 - INFO - Inserted article into health: Whatever happened to ... the race to cure HIV? There's promising news : Goats and Soda - NPR
+2025-08-26 23:03:58,509 - INFO - Inserted article into health: Eating meat may protect against cancer, landmark research shows - ScienceDaily
+2025-08-26 23:03:58,511 - INFO - Inserted article into health: Eating THESE fruits and vegetables can DRASTICALLY cut GI cancer risk - Times of India
+2025-08-26 23:03:58,513 - INFO - Inserted article into health: Socializing Could Add Years to Your Life, Study Finds - SciTechDaily
+2025-08-26 23:03:58,527 - INFO - Inserted article into health: Orthopedic surgeon tells women they can become "unbreakable" - Axios
+2025-08-26 23:03:58,529 - INFO - Inserted article into health: Why bananas are the 'perfect pre-workout snack,' according to a dietitian - Yahoo Life UK
+2025-08-26 23:03:58,530 - INFO - Inserted article into health: Vaccine skepticism crisis spills over as students return to school - USA Today
+2025-08-26 23:03:58,535 - INFO - Inserted article into health: New street drug 'flysky' causes alarm in Western Pa. - TribLIVE.com
+2025-08-26 23:03:58,539 - INFO - Inserted article into health: The surprising foods that lead to better sleep - BBC
+2025-08-26 23:03:58,541 - INFO - Inserted article into health: As measles surged in Texas, Trump administration's actions hampered CDC's response - CBS News
+2025-08-26 23:03:58,544 - INFO - Inserted article into health: Could this ‘superfruit’ be Florida’s next big crop? - WKMG
+2025-08-26 23:03:58,546 - INFO - Inserted article into health: This Diet Could Help Protect Your Brain From Alzheimer’s - SciTechDaily
+2025-08-26 23:03:58,552 - INFO - Inserted article into health: Researchers Uncover Cancer’s Secret Weapon Against Immune Cells - SciTechDaily
+2025-08-26 23:03:58,573 - INFO - Inserted article into health: Psychology says people who love being alone have these 9 qualities that 90% of people envy - VegOut
+2025-08-26 23:03:58,591 - INFO - Inserted article into health: Health experts warn of 'grave' danger lingering in our everyday lives: 'It is incumbent on us to act' - yahoo.com
+2025-08-26 23:03:58,601 - INFO - Inserted article into health: Life With Long COVID Comparable to Parkinson's And Stroke - ScienceAlert
+2025-08-26 23:03:58,603 - INFO - Inserted article into health: People who can’t fall asleep without a blanket (even in summer) usually share these 5 traits - VegOut
+2025-08-26 23:03:58,605 - INFO - Inserted article into health: The magnesium craze - Trinidad Express Newspapers
+2025-08-26 23:03:58,608 - INFO - Inserted article into health: Harvard-trained gastroenterologist explains why eating kiwi is beneficial for the gut - The Times of India
+2025-08-26 23:03:58,609 - INFO - Inserted article into health: Scientists found a protein that makes the brain age faster: How to arrest its growth - Times of India
+2025-08-26 23:03:58,609 - INFO - Inserted article into health: 5 Things That Don’t Mix Well with Your Diabetes Medications - EatingWell
+2025-08-26 23:03:58,611 - INFO - Inserted article into health: Experts issue warning after making concerning discovery about plastic water bottles: 'Just because you can not see [it] does not mean it is not there' - yahoo.com
+2025-08-26 23:03:58,612 - INFO - Inserted article into health: Study finds that the 'king of poisons' is building up in rice fields around the world - Earth.com
+2025-08-26 23:03:58,614 - INFO - Inserted article into health: Health officials warn of epidemic threat as cases of dangerous virus more than double: 'We're seeing a worrying increase' - yahoo.com
+2025-08-26 23:03:58,615 - INFO - Inserted article into health: Retooled Cancer Drugs Eliminated Aggressive Tumors in ‘Remarkable’ New Trial - Good News Network
+2025-08-26 23:03:58,618 - INFO - Inserted article into health: Cardiologists Are Begging You To Eat Less of This High-Protein Food if You're Over 50 - AOL.com
+2025-08-26 23:03:58,619 - INFO - Inserted article into health: Omega-3 may help to protect women from Alzheimer’s disease, new study says - yahoo.com
+2025-08-26 23:03:58,620 - INFO - Inserted article into health: Mixing Coffee And Antibiotics Could Be a Bad Idea, Study Shows - ScienceAlert
+2025-08-26 23:03:58,621 - INFO - Inserted article into health: Fact-checking RFK Jr.’s claim that pediatricians recommend vaccines for money - PBS
+2025-08-26 23:03:58,623 - INFO - Inserted article into health: RFK Jr. Cancels Promising Work on Cancer Vaccine - Futurism
+2025-08-26 23:03:58,625 - INFO - Inserted article into health: Sunday feature: Noah Schmitz is an aspiring chef with an eating disorder - Sumner NewsCow
+2025-08-26 23:03:58,627 - INFO - Inserted article into health: We Asked a Gastroenterologist What They Typically Eat in a Day — This is What They Prioritize - EatingWell
+2025-08-26 23:03:58,634 - INFO - Inserted article into health: This single food almost everyone loves raises your diabetes risk by 20% - New York Post
+2025-08-26 23:03:58,640 - INFO - Inserted article into health: 'Minibrains' reveal secrets of how key brain cells form in the womb - Live Science
+2025-08-26 23:03:58,644 - INFO - Inserted article into health: Leading Scientists Rethink How Medicine Can Approach Aging - SciTechDaily
+2025-08-26 23:03:58,646 - INFO - Inserted article into health: Your brain works overtime at night to burn fat and prevent sugar crashes - ScienceDaily
+2025-08-26 23:03:58,647 - INFO - Inserted article into health: Scientists Strip Cancer of Its “Superpower” To Outsmart Drugs - SciTechDaily
+2025-08-26 23:03:58,647 - INFO - Inserted article into health: No Pills, No Surgery: Scientists Discover Simple Way To Relieve Arthritis Pain - SciTechDaily
+2025-08-26 23:03:58,650 - INFO - Inserted article into health: Cute Video Shows What Happens When Owner Hides From Golden Retriever Puppy - DogTime
+2025-08-26 23:03:58,653 - INFO - Inserted article into health: Syphilis cases on the rise across Virginia, why leaders are warning pregnant women - 13newsnow.com
+2025-08-26 23:03:58,653 - INFO - Inserted article into health: Neural dynamics shed light on how the brain adapts to and suppresses fearful memories - Medical Xpress
+2025-08-26 23:03:58,654 - INFO - Inserted article into health: The Shingles Vaccine May Be Helpful In Preventing A Common Age-Related Illness - Health Digest
+2025-08-26 23:03:58,655 - INFO - Inserted article into health: Music After Learning Boosts Memory, But Only at the Right Emotion Level - Neuroscience News
+2025-08-26 23:03:58,655 - INFO - Inserted article into health: Diversity Jars Are TikTok’s Tip for Gut Health — Here’s What Dietitians Say - Food & Wine
+2025-08-26 23:03:58,656 - INFO - Inserted article into health: Michigan schools are getting more vaccine waivers. How covered is your kid’s school? - MLive.com
+2025-08-26 23:03:58,657 - INFO - Inserted article into health: Want a COVID shot this fall? Bay Area experts say it may not be simple - San Francisco Chronicle
+2025-08-26 23:03:58,660 - INFO - Inserted article into health: The 'Stratus' COVID Variant Is On The Rise — Here Are The Most Common Signs And Symptoms - HuffPost
+2025-08-26 23:03:58,661 - INFO - Inserted article into health: So THAT'S Why Mosquitoes Bite Some People More Than Others - Yahoo News New Zealand
+2025-08-26 23:03:58,662 - INFO - Inserted article into health: Researchers fed 7.9 million speeches into AI—and what they found upends our understanding of language - PsyPost
+2025-08-26 23:03:58,663 - INFO - Inserted article into health: Doctors want women to know the nuanced reality of hormone therapy for menopause - WGAL
+2025-08-26 23:03:58,663 - INFO - Inserted article into health: Woman Ends Up in Urgent Care After Popping Pimple in the ‘Triangle of Death’ on Her Face (Exclusive) - AOL.com
+2025-08-26 23:03:58,663 - INFO - Inserted article into health: NJ Transit rider tests positive for measles, exposure warning issued - Yahoo News Singapore
+2025-08-26 23:03:58,664 - INFO - Inserted article into health: What Really Happens When Blood Pressure Drops Below 120 - SciTechDaily
+2025-08-26 23:03:58,667 - INFO - Inserted article into health: 5 vegetarian foods that can naturally boost vitamin D levels\u200b - Times of India
+2025-08-26 23:03:58,671 - INFO - Inserting articles into database: 60 health articles found.
+2025-08-26 23:03:59,599 - INFO - Inserted article into entertainment: Netflix's 'KPop Demon Hunters' seemingly smashed the box office. Here's why it's likely a one-off - CNBC
+2025-08-26 23:03:59,600 - INFO - Inserted article into entertainment: Kennedy Center names new director of dance programming, days after former staff firings - NPR
+2025-08-26 23:03:59,601 - INFO - Inserted article into entertainment: Kneecap Cancel U.S. Tour - Pitchfork
+2025-08-26 23:03:59,602 - INFO - Inserted article into entertainment: A finish as brilliant as it was controversial caps NXT title match at Heatwave - Cageside Seats
+2025-08-26 23:03:59,602 - INFO - Inserted article into entertainment: Annette Bening Joins Lead Cast Of ‘Yellowstone’ Beth & Rip Spinoff ‘The Dutton Ranch’; Chad Feehan Set As Showrunner - Deadline
+2025-08-26 23:03:59,603 - INFO - Inserted article into entertainment: ‘SNL’ Writer Celeste Yim Leaving After Five Years - Deadline
+2025-08-26 23:03:59,603 - INFO - Inserted article into entertainment: ‘Gilmore Girls’ Documentary in the Works With Kelly Bishop, Jared Padalecki, Chad Michael Murray, More (Exclusive) - The Hollywood Reporter
+2025-08-26 23:03:59,603 - INFO - Inserted article into entertainment: Is Edinburgh's Fringe still fringe, or has it — gasp — gone mainstream? - NPR
+2025-08-26 23:03:59,604 - INFO - Inserted article into entertainment: Where the Death Riders stand and other takeaways from AEW’s Forbidden Door - nypost.com
+2025-08-26 23:03:59,605 - INFO - Inserted article into entertainment: Snoop Dogg Says ‘I’m Scared to Go to the Movies’ After Pixar’s Gay Couple in ‘Lightyear’ Led to Questions From His Grandson: ‘These Are Kids. We Have to Show That at This Age?’ - Variety
+2025-08-26 23:03:59,605 - INFO - Inserted article into entertainment: Will Smith accused of using AI for ‘embarrassing’ tour video - The Independent
+2025-08-26 23:03:59,606 - INFO - Inserted article into entertainment: Pamela Anderson & Liam Neeson Are No Longer Together, but There Was No Breakup, Says Source - yahoo.com
+2025-08-26 23:03:59,607 - INFO - Inserted article into entertainment: 'This is a disgrace' — Ukraine condemns Woody Allen's participation in Moscow film festival - The Kyiv Independent
+2025-08-26 23:03:59,607 - INFO - Inserted article into entertainment: TikToker Reveals What Harry Styles Allegedly Said When She Approached Him & Zoe Kravitz in Rome - Just Jared
+2025-08-26 23:03:59,608 - INFO - Inserted article into entertainment: Olivia Colman, Benedict Cumberbatch on being 'quite in love' decades into marriages - USA Today
+2025-08-26 23:03:59,608 - INFO - Inserted article into entertainment: E. Jean Carroll, Journalist and Trump Accuser, Has Cooperated With a Soon-to-Be-Unveiled Documentary (Exclusive) - The Hollywood Reporter
+2025-08-26 23:03:59,609 - INFO - Inserted article into entertainment: Anthony Michael Hall recalls “National Lampoon's Vacation” dad Chevy Chase mocking him for going through puberty while filming - Yahoo News UK
+2025-08-26 23:03:59,610 - INFO - Inserted article into entertainment: Hoda Kotb Now Sleeps In Until 4:30 a.m. - The Wall Street Journal
+2025-08-26 23:03:59,612 - INFO - Inserted article into entertainment: Oasis Launch First North American Tour in 16 Years with Rain-Soaked Set in Toronto - Consequence of Sound
+2025-08-26 23:03:59,612 - INFO - Inserted article into entertainment: Britney Spears Shares Rare Personal Secrets on Instagram: ‘Hardest Years of My Life’ - yahoo.com
+2025-08-26 23:03:59,615 - INFO - Inserted article into entertainment: The 101 Best Movie Performances of the 21st Century - The Ringer
+2025-08-26 23:03:59,616 - INFO - Inserted article into entertainment: John Leguizamo Says He Felt 'Humiliated' Starring in 'Regarding Henry' - Variety
+2025-08-26 23:03:59,617 - INFO - Inserted article into entertainment: Country music star says she is pregnant at 35: ‘Greatest production yet’ - PennLive.com
+2025-08-26 23:03:59,618 - INFO - Inserted article into entertainment: Kate Middleton debuts brand new blonde locks in major hair transformation - Cosmopolitan
+2025-08-26 23:03:59,619 - INFO - Inserted article into entertainment: Sebastian Stan's $75M Spy Thriller That Bombed at the Box Office Is Quietly Dominating Streaming Charts 3 Years Later - Comic Book Resources
+2025-08-26 23:03:59,619 - INFO - Inserted article into entertainment: Selena Gomez Shows off Her Curves During Cabo Trip - yahoo.com
+2025-08-26 23:03:59,620 - INFO - Inserted article into entertainment: Your daily horoscope: August 25, 2025 - The Globe and Mail
+2025-08-26 23:03:59,621 - INFO - Inserted article into entertainment: “I Dream of Jeannie” Star Barbara Eden Seen Out and About in Los Angeles on Her 94th Birthday - AOL.com
+2025-08-26 23:03:59,621 - INFO - Inserted article into entertainment: Jerry Adler, "Sopranos" and "The Good Wife" actor who spent decades backstage on Broadway, dies at 96 - CBS News
+2025-08-26 23:03:59,622 - INFO - Inserted article into entertainment: There's New Reports On Millie Bobby Brown And Jake Bongiovi Becoming Parents - BuzzFeed
+2025-08-26 23:03:59,622 - INFO - Inserted article into entertainment: Summer Box Office Won’t Reach $4 Billion Milestone After All - Variety
+2025-08-26 23:03:59,623 - INFO - Inserted article into entertainment: Multiple Matches Revealed for August 25 WWE RAW in Birmingham - Ringside News
+2025-08-26 23:03:59,624 - INFO - Inserted article into entertainment: ‘Eden’: Ron Howard’s Sydney Sweeney, Jude Law Pic Opens To $1M; How $35M Net Financed Movie Will Be Assessed In Theatrical Survival - Deadline
+2025-08-26 23:03:59,624 - INFO - Inserted article into entertainment: One Of Taylor Swift’s Backup Dancers Reacted To Making The Cover Of The Life Of A Showgirl, And It's So Adorable - Cinemablend
+2025-08-26 23:03:59,625 - INFO - Inserted article into entertainment: Son of 'Walking Dead' actor Norman Reedus charged with assault in New York - NBC News
+2025-08-26 23:03:59,625 - INFO - Inserted article into entertainment: Harrison Ford Gets Candid About Calista Flockhart Marriage: ‘Staying in Love Is the Issue’ - SheKnows
+2025-08-26 23:03:59,626 - INFO - Inserted article into entertainment: Christina Aguilera Turns Heads in a Red-Hot Swimsuit Paired With Sky-High Stilettos - instyle.com
+2025-08-26 23:03:59,627 - INFO - Inserted article into entertainment: Lorne Michaels Would Have Invited Sinead O'Connor on 'SNL50' to Sing 'Nothing Compares 2 U' - Ultimate Classic Rock
+2025-08-26 23:03:59,627 - INFO - Inserted article into entertainment: Gen Z created a new type of man to avoid - vox.com
+2025-08-26 23:03:59,628 - INFO - Inserted article into entertainment: The Oral History of ‘The 40-Year-Old Virgin’ - The Ringer
+2025-08-26 23:03:59,631 - INFO - Inserting articles into database: 40 entertainment articles found.

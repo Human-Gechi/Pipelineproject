@@ -8,7 +8,6 @@ from scripts.fetch_videos import NEWS # fetching the class News from the scripts
 from logsfolder.logger import logger #Importing logger variable from The Logsfolder
 
 # Initializing database objects
-DBTableManager().create_table()
 logger.info("Database tables created or verified.")
 db_loader = DBLoader()
 news = NEWS()

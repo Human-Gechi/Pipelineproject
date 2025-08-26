@@ -1,10 +1,7 @@
 #Importing necessary libraries for the=is task
 import os
 import sys
-from datetime import datetime, timedelta
-
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
-from sql.tables import DBLoader, DBTableManager
 from logsfolder.logger import logger
 import requests
 from dotenv import load_dotenv

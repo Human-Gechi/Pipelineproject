@@ -43,7 +43,7 @@ class DBTableManager(DBConnection):
                 name TEXT,
                 title TEXT,
                 description TEXT,
-                UNIQUE(description,title),
+                url TEXT PRIMARY KEY ,
                 publishedAt TIMESTAMP
             );
         """)
@@ -52,7 +52,7 @@ class DBTableManager(DBConnection):
                 name TEXT,
                 title TEXT,
                 description TEXT,
-                UNIQUE(description,title),
+                url TEXT PRIMARY KEY ,
                 publishedAt TIMESTAMP
             );
         """)
@@ -61,7 +61,7 @@ class DBTableManager(DBConnection):
                 name TEXT,
                 title TEXT,
                 description TEXT,
-                UNIQUE(description,title),
+                url TEXT PRIMARY KEY ,
                 publishedAt TIMESTAMP
             );
         """)
@@ -70,7 +70,7 @@ class DBTableManager(DBConnection):
                 name TEXT,
                 title TEXT,
                 description TEXT,
-                UNIQUE(title, description),
+                url TEXT PRIMARY KEY ,
                 publishedAt TIMESTAMP
             );
         """)
@@ -80,28 +80,34 @@ class DBLoader(DBConnection):
     """Class for loading content into Database that inherits from the Dbconnection class"""
     def __init__(self):
         super().__init__() # Initializing the Parent class
-    def insert_articles(self, category, articles):#methos for insering into the tables
-        table_map = { #Dictionary for mapping a category in to it's table
+    def insert_articles(self, category, articles):#Method for inserint articles
+        table_map = {#Dictionary for mapping a category in to it's table
             "science": "science",
             "health": "health",
             "technology": "technology",
-            "entertainment": "entertainment"
+            "entertainment": "entertainment",
         }
         table_name = table_map.get(category) # variable for mapping categories
         if not table_name:
-            return #if the table name is not in these categories, return an empty dictionary
+            return#if the table name is not in these categories, return an empty dictionary
+        insert_query = f"""
+            INSERT INTO {table_name} (name, title, description,url,publishedAt)
+            VALUES (%s, %s, %s, %s, %s)
+            ON CONFLICT (url) DO NOTHING;
+        """
         for article in articles: # Looping throught the list of dictionaries/Json data
-            try:
-                self.cursor.execute( #insertin into te tables
-                    f"""
-                    INSERT INTO {table_name} (name, title, description, publishedAt)
-                    VALUES (%s, %s, %s, %s)
-                    """, # locatin json the appropriate JSON parameters
-                    (article['source']['name'], article['title'], article['description'], article['publishedAt'])
-                )
-            except IntegrityError: # Duplicates catching
-                # Ignore Duplicates by rolling back the transaction
-                self.conn.rollback()
-                logger.warning(f"Duplicate articles found in {table_name} table. Skipping insertion.") #logger message for duplicates
-        self.conn.commit() #commiting to the database
-        self.conn.close() # closing connection
+            try: #Try except block for errors
+                self.cursor.execute(insert_query, (#inserint into tables
+                    article['source']['name'],
+                    article['title'],
+                    article['description'],
+                    article['url'],
+                    article['publishedAt']
+                ))
+            except Exception as e: #Errors catching
+                self.conn.rollback() #Preventing an update incases of errors
+                logger.error(f"Error inserting into {table_name}: {e}") # Logger message
+            else:
+                logger.info(f"Inserted article into {table_name}: {article['title']}") #Infor message for logs
+        self.conn.commit()  #commiting the data
+
