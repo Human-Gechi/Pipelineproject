@@ -1777,3 +1777,388 @@
 2025-08-30 12:44:27,983 - INFO - Inserted article into entertainment: Nvidia Earnings, Moats and China, Nvidia vs. the AI Labs - Stratechery by Ben Thompson
 2025-08-30 12:44:27,984 - INFO - Inserted article into entertainment: Your Daily Horoscope by Madame Clairevoyant: August 28, 2025 - The Cut
 2025-08-30 12:44:27,986 - INFO - Inserting articles into database: 21 entertainment articles found.
+2025-09-04 23:30:57,041 - INFO - Database tables created or verified.
+2025-09-04 23:30:57,174 - INFO - Database connection established.
+2025-09-04 23:30:58,617 - INFO - Inserted article into science: A spine-tingling discovery: This dinosaur had spiked body armor - NPR
+2025-09-04 23:30:58,618 - INFO - Inserted article into science: Meteorite impact one billion years ago may have changed the evolution of life on Earth - Earth.com
+2025-09-04 23:30:58,620 - INFO - Inserted article into science: Brain tumours in mice grow more slowly when starved of key amino acid - Nature
+2025-09-04 23:30:58,621 - INFO - Inserted article into science: Study: There is less room to store carbon dioxide, driver of climate change, than previously thought - AP News
+2025-09-04 23:30:58,623 - INFO - Inserted article into science: Brain-wide representations of prior information in mouse decision-making - Nature
+2025-09-04 23:30:58,624 - INFO - Inserted article into science: ‘Almost unimaginable’: these ants are different species but share a mother - Nature
+2025-09-04 23:30:58,625 - INFO - Inserted article into science: Cas9 senses CRISPR RNA abundance to regulate CRISPR spacer acquisition - Nature
+2025-09-04 23:30:58,626 - INFO - Inserted article into science: Spatial joint profiling of DNA methylome and transcriptome in tissues - Nature
+2025-09-04 23:30:58,627 - INFO - Inserted article into science: New modeling indicates 100-year-old geological theory on the Himalayas may have been wrong all along - Phys.org
+2025-09-04 23:30:58,629 - INFO - Inserted article into science: NASA's Insight Lander Reveals a Surprise at The Very Core of Mars - ScienceAlert
+2025-09-04 23:30:58,630 - INFO - Inserted article into science: New York’s ‘Big Bang Machine’ Passes Critical First Test - Gizmodo
+2025-09-04 23:30:58,632 - INFO - Inserted article into science: Researchers unearthed skeleton of extinct ‘hypercarnivore’ that had a taste for dinosaurs - CNN
+2025-09-04 23:30:58,633 - INFO - Inserted article into science: When is the next 'blood moon' total lunar eclipse visible from North America? - Space
+2025-09-04 23:30:58,634 - INFO - Inserted article into science: 5 forecasts early climate models got right – the evidence is all around you - The Conversation
+2025-09-04 23:30:58,634 - INFO - Inserted article into science: Scientists have created rechargeable, multicolored, glow-in-the-dark succulent plants - CNN
+2025-09-04 23:30:58,637 - INFO - Inserted article into science: Perseverance Mars rover rolls over Soroya Ridge photo of the day for Sept. 3, 2025 - Space
+2025-09-04 23:30:58,637 - INFO - Inserted article into science: Vitamin B1 theory from 1958 is finally proven by scientists after being called "crazy" - Earth.com
+2025-09-04 23:30:58,638 - INFO - Inserted article into science: Scientists taught an AI-powered 'robot dog' how to play badminton against humans — and it's actually really good - Live Science
+2025-09-04 23:30:58,640 - INFO - Inserted article into science: Interstellar comet 3I/ATLAS will fly by Mars 1 month from now — and Europe's Red Planet orbiters will be ready - Space
+2025-09-04 23:30:58,641 - INFO - Inserted article into science: Solar flares may be 6.5 times hotter than previously thought - Phys.org
+2025-09-04 23:30:58,642 - INFO - Inserted article into science: Scientists Find Kidney-Saving microRNA in a World-First Discovery - SciTechDaily
+2025-09-04 23:30:58,643 - INFO - Inserted article into science: Why Do We Need Sleep? Oxford Scientists Trace the Answer to Mitochondria - SciTechDaily
+2025-09-04 23:30:58,646 - INFO - Inserted article into science: Ingredient used in Doritos helps scientists create mice with 'see-through' skin - Earth.com
+2025-09-04 23:30:58,648 - INFO - Inserted article into science: Juno Detected the Final Missing Auroral Signature from Jupiter’s Four Largest Moons - NASA Science (.gov)
+2025-09-04 23:30:58,649 - INFO - Inserted article into science: Officials issue warning after researchers spot parasitic insect in tree where it doesn't belong: 'Can parasitize multiple … species' - yahoo.com
+2025-09-04 23:30:58,650 - INFO - Inserted article into science: This Plotter Knows No Boundaries - Hackaday
+2025-09-04 23:30:58,652 - INFO - Inserted article into science: Astronomers Discover Mysterious New World at Edge of the Solar System - SciTechDaily
+2025-09-04 23:30:58,653 - INFO - Inserted article into science: Asteroid Bennu contains stardust that's older than the solar system - Space
+2025-09-04 23:30:58,654 - INFO - Inserted article into science: SpaceX launches 28 Starlink satellites on Wednesday sunrise Falcon 9 flight - Spaceflight Now
+2025-09-04 23:30:58,655 - INFO - Inserted article into science: 265 Million-Year-Old Fossil Reveals the Largest South American Prehistoric Predator - Indian Defence Review
+2025-09-04 23:30:58,656 - INFO - Inserted article into science: A Closer Look at: Ardipithecus ramidus - Daily Kos
+2025-09-04 23:30:58,657 - INFO - Inserted article into science: Astronomers discover a 'forbidden' pulsar fleeing a supernova in a seemingly empty region of the Milky Way - Space
+2025-09-04 23:30:58,658 - INFO - Inserted article into science: "Space Has a Tesla Floating Forever": Elon Musk's Cherry-Red Roadster Orbits Sun With Starman Mannequin Driving for Millions of Years - Rude Baguette
+2025-09-04 23:30:58,660 - INFO - Inserted article into science: Alzheimer’s Linked to Epigenomic Breakdown, Not Just Plaques - Neuroscience News
+2025-09-04 23:30:58,660 - INFO - Inserted article into science: As the Great Salt Lake Shrinks, Something Unexpected Is Rising to the Surface - Gizmodo
+2025-09-04 23:30:58,662 - INFO - Inserted article into science: Fairy circles may point to underground sources of clean energy from natural hydrogen reserves - Earth.com
+2025-09-04 23:30:58,663 - INFO - Inserted article into science: Stressed Ice Generates Electricity, Researchers Find - Gizmodo
+2025-09-04 23:30:58,664 - INFO - Inserted article into science: Magnetic fields in infant universe may have been billions of times weaker than a fridge magnet - Phys.org
+2025-09-04 23:30:58,665 - INFO - Inserted article into science: Quantum researchers observe real-time switching of magnet in heart of single atom - Phys.org
+2025-09-04 23:30:58,667 - INFO - Inserted article into science: Explaining a quantum oddity with five atoms - Phys.org
+2025-09-04 23:30:58,668 - INFO - Inserted article into science: Scientists Pinpoint Cause of Mysterious Electrical Surges on Satellites - Gizmodo
+2025-09-04 23:30:58,669 - INFO - Inserted article into science: Moon phase today: What the moon will look like on September 2, 2025 - Mashable
+2025-09-04 23:30:58,670 - INFO - Inserted article into science: New massive dinosaur measuring at 39 feet discovered in China - ABC News
+2025-09-04 23:30:58,671 - INFO - Inserted article into science: What’s The Largest Egg Of Any Animal? Clue: It Doesn't Come From An Ostrich - IFLScience
+2025-09-04 23:30:58,672 - INFO - Inserted article into science: A mammoth toothache: bacterial community discovered in mouth of ancient mammal - Nature
+2025-09-04 23:30:58,673 - INFO - Inserted article into science: Newly discovered bus-size asteroid will zoom close past Earth tomorrow — and will not return for exactly 100 years - Live Science
+2025-09-04 23:30:58,675 - INFO - Inserted article into science: AI Reveals Hidden Genetic Secrets Of Papua New Guineans’ Origins - Indian Defence Review
+2025-09-04 23:30:58,676 - INFO - Inserted article into science: Planet in Peril: 60% of Earth’s Land Now Outside “Safe Zone” - SciTechDaily
+2025-09-04 23:30:58,677 - INFO - Inserted article into science: Traces of blue indigo on 34,000-year-old grinding tools suggest new Paleolithic plant use scenarios - Phys.org
+2025-09-04 23:30:58,678 - INFO - Inserted article into science: Earth could be sitting in the centre of a giant cosmic void, according to astronomers - BBC Sky at Night Magazine
+2025-09-04 23:30:58,679 - INFO - Inserted article into science: Humans inherited genes from Neanderthals that still limit our muscle activity - Earth.com
+2025-09-04 23:30:58,680 - INFO - Inserted article into science: Earth's Rotation Is Slowing, And It Might Explain Why We Have Oxygen - ScienceAlert
+2025-09-04 23:30:58,682 - INFO - Inserted article into science: How magnets could help astronauts explore the moon and Mars - Space
+2025-09-04 23:30:58,683 - INFO - Inserted article into science: TESS reveals two rocky Earth-sized exoplanets orbiting nearby K-type star - Phys.org
+2025-09-04 23:30:58,684 - INFO - Inserted article into science: NASA advances lunar nuclear plan with commercial focus - SpaceNews
+2025-09-04 23:30:58,685 - INFO - Inserted article into science: The search for Earth’s most mysterious creatures is turning up extraordinary results - vox.com
+2025-09-04 23:30:58,686 - INFO - Inserted article into science: Discovery of unusual iodine–silver bond opens up new possibilities for coordination chemistry - Chemistry World
+2025-09-04 23:30:58,687 - INFO - Inserted article into science: Light It Right: How to Block UV Rays From Infiltrating Your Interiors - Mansion Global
+2025-09-04 23:30:58,688 - INFO - Inserted article into science: No suffering, no death, no limits: the nanobots pipe dream - Aeon
+2025-09-04 23:30:58,689 - INFO - Inserted article into science: Unifying gravity and quantum theory requires better understanding of time - Nature
+2025-09-04 23:30:58,691 - INFO - Inserted article into science: A Simple Spark That May Explain How Life Began - SciTechDaily
+2025-09-04 23:30:58,692 - INFO - Inserted article into science: Giant sandy 'slug' crawls through floodplains in Kazakhstan, but it could soon be frozen in place — Earth from space - Live Science
+2025-09-04 23:30:58,693 - INFO - Inserted article into science: Could This Rocket Superfuel Change Spaceflight? - American Council on Science and Health
+2025-09-04 23:30:58,694 - INFO - Inserted article into science: New telescope images deliver sharpest-ever view of powerful solar flare - Mashable
+2025-09-04 23:30:58,695 - INFO - Inserted article into science: A Surprising Mathematical Pattern Was Found Hiding in Earth's History - ScienceAlert
+2025-09-04 23:30:58,697 - INFO - Inserted article into science: Launch Roundup: SpaceX to launch five Falcon 9 missions this week - NASASpaceFlight.com -
+2025-09-04 23:30:58,698 - INFO - Inserted article into science: World witnessed the longest 74-minute solar eclipse in history with Concorde 001 flying at 2,500 km/h - Times of India
+2025-09-04 23:30:58,699 - INFO - Inserted article into science: The Math Says Life Shouldn’t Exist: New Study Challenges Origins Theories - SciTechDaily
+2025-09-04 23:30:58,704 - INFO - Inserting articles into database: 68 science articles found.
+2025-09-04 23:30:59,847 - INFO - Inserted article into technology: Leaked Fallout Merch Appears To Use AI-Generated Slop - Kotaku
+2025-09-04 23:30:59,847 - INFO - Inserted article into technology: Hands-on: Chromebooks are in a weird place, and Acer’s latest is a perfect example - 9to5Google
+2025-09-04 23:30:59,848 - INFO - Inserted article into technology: Apple Plans AI-Powered Web Search Tool for Siri to Rival OpenAI, Perplexity - Bloomberg
+2025-09-04 23:30:59,849 - INFO - Inserted article into technology: These psychological tricks can get LLMs to respond to “forbidden” prompts - Ars Technica
+2025-09-04 23:30:59,849 - INFO - Inserted article into technology: Pixel phones are getting Android’s ‘Audio Sharing’ with Auracast support - 9to5Google
+2025-09-04 23:30:59,850 - INFO - Inserted article into technology: Google brings Material 3 Expressive to Pixel 6 and newer devices, along with other features - TechCrunch
+2025-09-04 23:30:59,850 - INFO - Inserted article into technology: Fake celebrity chatbots sent risqué messages to teens on top AI app - The Washington Post
+2025-09-04 23:30:59,851 - INFO - Inserted article into technology: Diagnostic dilemma: Woman's severe knee pain reveals 'golden threads' in her joints - Live Science
+2025-09-04 23:30:59,851 - INFO - Inserted article into technology: Marvel Rivals coming to PS4 on September 12 alongside Season 4 update - Gematsu
+2025-09-04 23:30:59,852 - INFO - Inserted article into technology: First Look at the next Expansion with a Showcase Set for October 15 - Disney Dreamlight Valley
+2025-09-04 23:30:59,852 - INFO - Inserted article into technology: Instagram Unveils iPad App for First Time, Focused on Reels - Bloomberg.com
+2025-09-04 23:30:59,853 - INFO - Inserted article into technology: Claude Code: Now in Beta in Zed - Hacker News
+2025-09-04 23:30:59,854 - INFO - Inserted article into technology: AMD RDNA 5 “Radeon” GPUs Are Codenamed After Transformers: Alpha Trion, Ultra Magnus & Orion Pax - Wccftech
+2025-09-04 23:30:59,855 - INFO - Inserted article into technology: Netflix will let users customize and share clips on mobile - CNBC
+2025-09-04 23:30:59,855 - INFO - Inserted article into technology: PS5 Digital Edition Reportedly Getting Surprise Downgrade in Europe - GameSpot
+2025-09-04 23:30:59,855 - INFO - Inserted article into technology: Cronos: The New Dawn Ray Tracing & DLSS 4 Benchmarks - DSOGaming
+2025-09-04 23:30:59,856 - INFO - Inserted article into technology: Garmin’s Fenix 8 Pro series finally lets you leave your phone at home — sort of - The Verge
+2025-09-04 23:30:59,856 - INFO - Inserted article into technology: No Man's Sky boss "so happy" as sim celebrates highest Steam player count since launch and fans go wild with new ship customisation - Eurogamer
+2025-09-04 23:30:59,857 - INFO - Inserted article into technology: "MEDIA ALERT: The Pokémon Trading Card Game Heats Up with New Mega Evolution—Phantasmal Flames Expansion Coming Soon" - The Pokémon Company North America Official Press Site - Pokemon Press
+2025-09-04 23:30:59,858 - INFO - Inserted article into technology: Prey 2 gameplay footage emerges online over a decade since game's cancellation - Eurogamer
+2025-09-04 23:30:59,858 - INFO - Inserted article into technology: Rumor: iPhone 17 Pro to feature better thermals for improved battery life, display brightness, more - 9to5Mac
+2025-09-04 23:30:59,859 - INFO - Inserted article into technology: Remarkable’s new digital notepad is smaller than a paperback - The Verge
+2025-09-04 23:30:59,860 - INFO - Inserted article into technology: Final Fantasy Tactics' Devs Had To Lean On Fans To Recover Original Source Code - Nintendo Life
+2025-09-04 23:30:59,860 - INFO - Inserted article into technology: Woman Freaked Out by Beautician Wearing Meta Video Glasses - PetaPixel
+2025-09-04 23:30:59,861 - INFO - Inserted article into technology: As Helldivers 2 performance tanks, CEO admits “technical debt is crippling” and that insane PC size is “being looked at” as fans plea for better optimization - VideoGamer
+2025-09-04 23:30:59,861 - INFO - Inserted article into technology: Cult classic 3D N64 shooter from 1998 arrives on Nintendo Classics tomorrow - Eurogamer
+2025-09-04 23:30:59,862 - INFO - Inserted article into technology: Acer’s 16-inch Air weighs even less than a 13-inch MacBook Air - The Verge
+2025-09-04 23:30:59,863 - INFO - Inserted article into technology: The PartyBox 720 is JBL’s largest battery-powered party speaker - The Verge
+2025-09-04 23:30:59,864 - INFO - Inserted article into technology: Google will reveal its Gemini smart home plans (and hardware) next month - The Verge
+2025-09-04 23:30:59,864 - INFO - Inserted article into technology: CISA Adds TP-Link and WhatsApp Flaws to KEV Catalog Amid Active Exploitation - The Hacker News
+2025-09-04 23:30:59,865 - INFO - Inserted article into technology: Samsung updates One UI software rollout roadmap - Sammy Fans
+2025-09-04 23:30:59,865 - INFO - Inserted article into technology: Dyson Is Going Nuts with the V8 Plus, the Cordless Vacuum Suddenly Got Really Cheap - Kotaku
+2025-09-04 23:30:59,865 - INFO - Inserted article into technology: Two Days Left to Get Free $200 Google Store Credit When You Buy Pixel 10 Pro - Droid Life
+2025-09-04 23:30:59,866 - INFO - Inserted article into technology: 33.4 Patch Notes — Hearthstone - Blizzard News
+2025-09-04 23:30:59,866 - INFO - Inserted article into technology: Fallout 76: C.A.M.P Revamp Combat Release Notes (FULL) - Bethesda.net
+2025-09-04 23:30:59,866 - INFO - Inserted article into technology: Samsung 9100 PRO 8TB PCIe Gen5 NVMe SSD Review - ServeTheHome
+2025-09-04 23:30:59,867 - INFO - Inserted article into technology: Google says Gmail security is ‘strong and effective’ following mass data breach rumors - 9to5Google
+2025-09-04 23:30:59,867 - INFO - Inserted article into technology: People Are Cheating on Their Partners—With AI - VICE
+2025-09-04 23:30:59,867 - INFO - Inserted article into technology: Dolby Announces Dolby Vision 2: A New Generation Of Its Acclaimed HDR Picture Quality Enhancement Technology - Forbes
+2025-09-04 23:30:59,868 - INFO - Inserted article into technology: Microsoft Issues Free Update Offer To Windows Users—How To Get It - Forbes
+2025-09-04 23:30:59,871 - INFO - Inserting articles into database: 40 technology articles found.
+2025-09-04 23:31:00,544 - INFO - Inserted article into health: 7 daily “wellness” habits people brag about that aren’t actually healthy - VegOut
+2025-09-04 23:31:00,546 - INFO - Inserted article into health: 8 human cases of West Nile virus — 1 death — detected in Utah, Davis counties - KSL.com
+2025-09-04 23:31:00,548 - INFO - Inserted article into health: Using the phone while you poop greatly raises hemorrhoid risk, new study says - CNN
+2025-09-04 23:31:00,549 - INFO - Inserted article into health: Sex Shapes the Course of Bipolar Disorder and Schizophrenia - Neuroscience News
+2025-09-04 23:31:00,550 - INFO - Inserted article into health: Healey counters FDA, makes COVID boosters widely available in Mass. - The Boston Globe
+2025-09-04 23:31:00,551 - INFO - Inserted article into health: Pensacola woman contracts 'flesh eating' bacteria in Sound | PHOTOS - Pensacola News Journal
+2025-09-04 23:31:00,552 - INFO - Inserted article into health: Internal fat may be the leading cause of heart failure, study finds - AOL.com
+2025-09-04 23:31:00,554 - INFO - Inserted article into health: Maine CDC reports 3 active tuberculosis cases in Portland area - WPFO
+2025-09-04 23:31:00,555 - INFO - Inserted article into health: A Common Heart Drug Taken by Millions May Often Be Useless – or Even Risky - ScienceAlert
+2025-09-04 23:31:00,556 - INFO - Inserted article into health: RFK Jr. Boasts About Major Measles Outbreak Response Amid Criticism Over CDC Chaos - HuffPost
+2025-09-04 23:31:00,556 - INFO - Inserted article into health: Are ultra-processed foods really so unhealthy? What the science says - Nature
+2025-09-04 23:31:00,557 - INFO - Inserted article into health: The places where 'hearing voices' is seen as a good thing - BBC
+2025-09-04 23:31:00,558 - INFO - Inserted article into health: Long COVID Hitting Doctors and Nurses Hard - Medscape
+2025-09-04 23:31:00,559 - INFO - Inserted article into health: Big shakeups to the childhood vaccination schedule could be nearing - statnews.com
+2025-09-04 23:31:00,560 - INFO - Inserted article into health: Build strength, muscle and power over 60 with these 5 'must-try' exercises from an expert strength coach - Tom's Guide
+2025-09-04 23:31:00,562 - INFO - Inserted article into health: Colon cancer doctor shares five life-saving lessons: Symptoms and risks you should know - The Times of India
+2025-09-04 23:31:00,562 - INFO - Inserted article into health: Michigan reports first 4 cases of deer hemorrhagic disease in 4 southern counties this year - The Detroit News
+2025-09-04 23:31:00,564 - INFO - Inserted article into health: Motion Sickness Sufferers, Rejoice: Scientists Say This Might Actually Help - Gizmodo
+2025-09-04 23:31:00,565 - INFO - Inserted article into health: Weight Loss Breakthrough: Scientists Develop Edible “Fat Sponges” From Green Tea and Seaweed - SciTechDaily
+2025-09-04 23:31:00,566 - INFO - Inserted article into health: The Pill That Women Are Taking for Everything From Speeches to First Dates - WSJ - The Wall Street Journal
+2025-09-04 23:31:00,568 - INFO - Inserted article into health: State’s first human case of West Nile virus this year reported in Middlesex County - Boston.com
+2025-09-04 23:31:00,569 - INFO - Inserted article into health: Switching Off One Crucial Protein Appears to Reverse Brain Aging in Mice - ScienceAlert
+2025-09-04 23:31:00,570 - INFO - Inserted article into health: Nordic Walking Can Improve Your Heart Function: Here's How It Works - BuzzFeed
+2025-09-04 23:31:00,571 - INFO - Inserted article into health: OTC nasal spray seemed to cut COVID infections by 67% in mid-sized trial - Ars Technica
+2025-09-04 23:31:00,572 - INFO - Inserted article into health: Bronson Healthcare re-names walk-in locations for patient ease - WWMT
+2025-09-04 23:31:00,572 - INFO - Inserted article into health: 3-Minute Brainwave Test Detects Alzheimer’s Years Before Symptoms - Neuroscience News
+2025-09-04 23:31:00,573 - INFO - Inserted article into health: New hypertension clinic in Pensacola emphasizes lifestyle changes for better heart health - WEAR-TV
+2025-09-04 23:31:00,574 - INFO - Inserted article into health: Chronic Stress Sends Immune Cells to Brain, Driving Depression - Neuroscience News
+2025-09-04 23:31:00,575 - INFO - Inserted article into health: In the wake of COVID, Osterholm takes on 'The Big One' in new book - CIDRAP
+2025-09-04 23:31:00,576 - INFO - Inserted article into health: This Isn’t the Typical Way Women Like to Have Sex. But It’s Better Than Anything I’ve Ever Done. - Slate
+2025-09-04 23:31:00,578 - INFO - Inserted article into health: COVID-19 Is Surging Again in TX, CA, OR, NV, NM, and Other Places - Daily Kos
+2025-09-04 23:31:00,579 - INFO - Inserted article into health: US prostate cancer rates rose annually over the past decade, new report finds - ABC News
+2025-09-04 23:31:00,579 - INFO - Inserted article into health: Clay Higgins wants to defund health departments, other groups that promote COVID vaccine - NOLA.com
+2025-09-04 23:31:00,581 - INFO - Inserted article into health: Water that looks clean may be full of invisible and deadly bacteria - Earth.com
+2025-09-04 23:31:00,584 - INFO - Inserted article into health: Gut disorders may foretell Alzheimer's, Parkinson's disease - MedicalNewsToday
+2025-09-04 23:31:00,585 - INFO - Inserted article into health: Spouses show consistent similarities across nine psychiatric disorders over generations - Medical Xpress
+2025-09-04 23:31:00,586 - INFO - Inserted article into health: Presidential Message on National Ovarian Cancer Awareness Month - The White House (.gov)
+2025-09-04 23:31:00,586 - INFO - Inserted article into health: Researchers Discover Another Place Where People Live Freakishly Long - Gizmodo
+2025-09-04 23:31:00,588 - INFO - Inserted article into health: Why schizophrenia may be ‘the most devastating of mental illnesses’ - CNN
+2025-09-04 23:31:00,589 - INFO - Inserted article into health: Electrical stimulation can reprogram immune system to heal the body faster - Medical Xpress
+2025-09-04 23:31:00,590 - INFO - Inserted article into health: Women and Older Adults are Driving Sales of Creatine Higher - Bloomberg.com
+2025-09-04 23:31:00,591 - INFO - Inserted article into health: Teenager With Exceptional “Mental Time Travel” Abilities Sees Past And Future With Rare Clarity - IFLScience
+2025-09-04 23:31:00,592 - INFO - Inserted article into health: These scientists found Alzheimer’s in their genes. Here’s what they did next : Shots - Health News - NPR
+2025-09-04 23:31:00,593 - INFO - Inserted article into health: Tishrei Guests Encouraged to Get Health and Travel Insurance - COLlive
+2025-09-04 23:31:00,593 - INFO - Inserted article into health: “Read the box…” Elon Musk raises alarm over contraceptives and birth control pills - Times of India
+2025-09-04 23:31:00,595 - INFO - Inserted article into health: This Is What Happens to Your Body When You Take Too Many Vitamins - Prevention
+2025-09-04 23:31:00,596 - INFO - Inserted article into health: Common Drug Better Than Aspirin For Repeat Heart Attacks, Study Finds - ScienceAlert
+2025-09-04 23:31:00,597 - INFO - Inserted article into health: Whatever happened to mpox? Is it still a threat? - NPR
+2025-09-04 23:31:00,598 - INFO - Inserted article into health: 5 best fruits for kidney health: How to boost function and protect kidneys naturally - The Times of India
+2025-09-04 23:31:00,600 - INFO - Inserted article into health: Microplastics can trigger Alzheimer’s-like symptoms in mice, study shows - The Washington Post
+2025-09-04 23:31:00,601 - INFO - Inserted article into health: When does trying to have a healthier baby become eugenics-y? - vox.com
+2025-09-04 23:31:00,602 - INFO - Inserted article into health: Make statins available without a prescription - statnews.com
+2025-09-04 23:31:00,603 - INFO - Inserted article into health: Your nose could detect Alzheimer’s years before memory loss - ScienceDaily
+2025-09-04 23:31:00,604 - INFO - Inserted article into health: The next Ozempic: A 4-in-1 breakthrough for lasting weight loss - ScienceDaily
+2025-09-04 23:31:00,605 - INFO - Inserted article into health: Common Pesticide Linked to Widespread Brain Abnormalities in Children - ScienceAlert
+2025-09-04 23:31:00,606 - INFO - Inserted article into health: Dementia risk slashed with one common health intervention, study finds - AOL.com
+2025-09-04 23:31:00,607 - INFO - Inserted article into health: Five pieces of sleep advice that could be making your insomnia worse – a sleep therapist explains - The Conversation
+2025-09-04 23:31:00,611 - INFO - Inserting articles into database: 57 health articles found.
+2025-09-04 23:31:01,366 - INFO - Inserted article into entertainment: The ‘Superman’ sequel, ‘Man of Tomorrow,’ will arrive summer 2027 - AP News
+2025-09-04 23:31:01,367 - INFO - Inserted article into entertainment: Demi Moore Speaks on Ex-Husband Bruce Willis’ Dementia as Star’s Wife Responds to Backlash - The Hollywood Reporter
+2025-09-04 23:31:01,368 - INFO - Inserted article into entertainment: ‘Wuthering Heights’ Trailer: Jacob Elordi Seduces Margot Robbie in Erotic Footage From ‘Saltburn’ Director Emerald Fennell’s Movie - Variety
+2025-09-04 23:31:01,369 - INFO - Inserted article into entertainment: Devon Walker on Leaving 'SNL' and Why the Show Can Be 'Toxic' - Variety
+2025-09-04 23:31:01,370 - INFO - Inserted article into entertainment: ‘SNL’ Alum Jorma Taccone Recovering From 20-Foot Ladder Fall, Won’t Walk For Months - Deadline
+2025-09-04 23:31:01,371 - INFO - Inserted article into entertainment: Will Smith Sets First-Look Film Deal at Paramount - The Hollywood Reporter
+2025-09-04 23:31:01,372 - INFO - Inserted article into entertainment: SNL announces 5 new cast members, including one from 'Please Don't Destroy' - NPR
+2025-09-04 23:31:01,373 - INFO - Inserted article into entertainment: Aziz Ansari did not publicly apologize for sexual misconduct allegation because 'I apologized to the person personally' - Yahoo Movies UK
+2025-09-04 23:31:01,374 - INFO - Inserted article into entertainment: David Duchovny Confirms Marriage to Monique Pendleberry 7 Months After Secret Wedding - AOL.com
+2025-09-04 23:31:01,376 - INFO - Inserted article into entertainment: 'Ketamine Queen' pleads guilty in Matthew Perry’s overdose death - NBC News
+2025-09-04 23:31:01,377 - INFO - Inserted article into entertainment: Gaza Drama ‘The Voice Of Hind Rajab’ Gets Record 23-Minute-Plus Ovation At Venice World Premiere - Deadline
+2025-09-04 23:31:01,378 - INFO - Inserted article into entertainment: Watch Tim Burton’s Video for New Lady Gaga Song “The Dead Dance” - Pitchfork
+2025-09-04 23:31:01,379 - INFO - Inserted article into entertainment: ‘Yellowstone’ Beth and Rip Spinoff ‘The Dutton Ranch’ Casts Ed Harris - Variety
+2025-09-04 23:31:01,381 - INFO - Inserted article into entertainment: Taylor Swift Super Bowl Halftime Show Is “A Maybe” Says NFL’s Roger Goodell - Deadline
+2025-09-04 23:31:01,383 - INFO - Inserted article into entertainment: ‘The Conjuring: Last Rites’ To Be Blessed With $80M Global Opening – Box Office - Deadline
+2025-09-04 23:31:01,384 - INFO - Inserted article into entertainment: Why Aziz Ansari, Keanu Reeves and Seth Rogen Are Praying for a Little ‘Good Fortune’ - The Hollywood Reporter
+2025-09-04 23:31:01,385 - INFO - Inserted article into entertainment: ‘A House of Dynamite’ Trailer: Idris Elba and Rebecca Ferguson Race to Stop a Nuke From Destroying America in Kathryn Bigelow’s Netflix Thriller - Variety
+2025-09-04 23:31:01,386 - INFO - Inserted article into entertainment: The 30 Most Anticipated Movies From the 2025 Toronto International Film Festival - Rolling Stone
+2025-09-04 23:31:01,387 - INFO - Inserted article into entertainment: ‘The Paper’ Renewed for Season 2, One Day Before Series Premiere on Peacock - Variety
+2025-09-04 23:31:01,388 - INFO - Inserted article into entertainment: Hilaria Baldwin's 'mystical' journey to 'DWTS' with Jordan Chiles, Corey Feldman - USA Today
+2025-09-04 23:31:01,389 - INFO - Inserted article into entertainment: Something feels ‘different’ for Travis Kelce since Taylor Swift engagement — as NFL star opens up on ‘New Heights’ - New York Post
+2025-09-04 23:31:01,390 - INFO - Inserted article into entertainment: Jack Osbourne hits back at Roger Waters for insulting Ozzy Osbourne: “Pathetic and out of touch” - Far Out Magazine
+2025-09-04 23:31:01,391 - INFO - Inserted article into entertainment: Sabrina Carpenter On Controversial 'Man's Best Friend' Album Cover Art: "The Reaction Is Fascinating To Me" - Deadline
+2025-09-04 23:31:01,392 - INFO - Inserted article into entertainment: Wyoming Author Craig Johnson Remembers Actor Graham Greene, Who Died Monday - Cowboy State Daily
+2025-09-04 23:31:01,393 - INFO - Inserted article into entertainment: The Wit and Wisdom of Oasis: Best Quotes From the New Jersey Reunion Show, From Beer Line Insight to Liam Gallagher’s Wild Monologue - Variety
+2025-09-04 23:31:01,395 - INFO - Inserted article into entertainment: Dwayne Johnson’s ‘Smashing Machine’ Transformation: How Makeup Artist Kazu Hiro Hid Tattoos, Changed The Rock’s Nose Shape and More - Variety
+2025-09-04 23:31:01,396 - INFO - Inserted article into entertainment: PARAMOUNT STRIKES MAJOR FILM DEAL WITH ACTIVISION TO BRING CALL OF DUTY TO THE BIG SCREEN - paramount.com
+2025-09-04 23:31:01,398 - INFO - Inserted article into entertainment: Vogue promotes Chloe Malle to top editor spot - NPR
+2025-09-04 23:31:01,399 - INFO - Inserted article into entertainment: With Traditional Hmong Cooking and Soulful Pastries, Our 2025 Restaurant of the Year Feels Just Like Home - Food & Wine
+2025-09-04 23:31:01,402 - INFO - Inserting articles into database: 29 entertainment articles found.
+2025-09-07 03:43:03,205 - INFO - Database tables created or verified.
+2025-09-07 03:43:03,286 - INFO - Database connection established.
+2025-09-07 03:43:04,587 - INFO - Inserted article into science: Prehistoric Skull Found Fused to Cave Wall May Have Belonged to Mysterious Ancient Hominid - Gizmodo
+2025-09-07 03:43:04,587 - INFO - Inserted article into science: Atlantic Ocean Currents Are Collapsing, and the Consequences Could Be Disastrous - Indian Defence Review
+2025-09-07 03:43:04,587 - INFO - Inserted article into science: The Largest Land Mammal Ever to Walk the Earth: Meet Paraceratherium, the Giant Rhino That Dwarfed Elephants - Indian Defence Review
+2025-09-07 03:43:04,587 - INFO - Inserted article into science: Physicists create a new kind of time crystal that humans can actually see - Phys.org
+2025-09-07 03:43:04,587 - INFO - Inserted article into science: Tail of comet that's visiting from another star is growing, new telescope image shows - CBS News
+2025-09-07 03:43:04,587 - INFO - Inserted article into science: Thousands of newborn stars dazzle in the latest snapshot by NASA's Webb Space Telescope - AP News
+2025-09-07 03:43:04,587 - INFO - Inserted article into science: Another "Save NASA" Protest At NASA HQ on Monday - NASA Watch
+2025-09-07 03:43:04,587 - INFO - Inserted article into science: '50,000°C but no fire?': Voyager redefined our understanding of heat while being in firewall - WION
+2025-09-07 03:43:04,587 - INFO - Inserted article into science: Why Is Ice Slippery? New Study Overturns 200-Year-Old Physics Theory - SciTechDaily
+2025-09-07 03:43:04,587 - INFO - Inserted article into science: Stem cells age faster in space, study reveals - CNN
+2025-09-07 03:43:04,587 - INFO - Inserted article into science: "Earth's Oxygen Will Start Disappearing In 10,000 Years": Scientists Warn Sun's Increasing Heat Will Trigger Irreversible Atmospheric Collapse That Ends Complex Life - Energy Reporters
+2025-09-07 03:43:04,587 - INFO - Inserted article into science: Watch the blood moon total lunar eclipse on Sept. 7 with these free livestreams (video) - Space
+2025-09-07 03:43:04,587 - INFO - Inserted article into science: Fomalhaut star's warped ring shows evidence of sculpting by ancient planets - Phys.org
+2025-09-07 03:43:04,603 - INFO - Inserted article into science: 'Ghost sharks' are lurking off the coast of Washington – and they have teeth growing out of their foreheads - BBC Wildlife Magazine
+2025-09-07 03:43:04,603 - INFO - Inserted article into science: "Earth's Seasons Are No Longer In Sync": Scientists Use Satellite Data To Reveal Chaotic Growth Patterns That Challenge 20 Years Of Ecological Models - Energy Reporters
+2025-09-07 03:43:04,603 - INFO - Inserted article into science: NASA Perseverance rover spies a 'turtle' on Mars photo of the day for Sept. 5, 2025 - Space
+2025-09-07 03:43:04,603 - INFO - Inserted article into science: Red-hot footage shows SpaceX Starship lifting off from beneath with launch mount view - supercarblondie.com
+2025-09-07 03:43:04,603 - INFO - Inserted article into science: Why solar flares are way hotter than researchers thought - NPR
+2025-09-07 03:43:04,603 - INFO - Inserted article into science: Different flames - Nature
+2025-09-07 03:43:04,603 - INFO - Inserted article into science: Researchers find adverse effects of apex predator reintroduction: 'The conservation message is don't lose them in the first place' - yahoo.com
+2025-09-07 03:43:04,603 - INFO - Inserted article into science: 'The turtles and the nudists will have to migrate': SpaceX plan for Starship launches from Florida sparks debate among Space Coast residents - yahoo.com
+2025-09-07 03:43:04,603 - INFO - Inserted article into science: Webb Telescope Spots a “Blob” Near a Star, but Is It a Planet? - SciTechDaily
+2025-09-07 03:43:04,603 - INFO - Inserted article into science: A fiber optic cable spied on Greenland’s glaciers. It found an alarming problem. - Yahoo News Canada
+2025-09-07 03:43:04,603 - INFO - Inserted article into science: Ask Ethan: Could "positive geometry" unlock the theory of everything? - Big Think
+2025-09-07 03:43:04,603 - INFO - Inserted article into science: Sean Duffy Is Stuck Inside The Fox Bubble - NASA Watch
+2025-09-07 03:43:04,603 - INFO - Inserted article into science: "We Found Enough Hydrogen To Power Earth For 170,000 Years": Oxford Scientists Discover Vast Natural Reserves Beneath Our Feet Using Ancient Rock Reactions - Energy Reporters
+2025-09-07 03:43:04,603 - INFO - Inserted article into science: 'At 55,000 kmph': What if Voyager 1 & 2 collide with a Dyson Sphere? - WION
+2025-09-07 03:43:04,603 - INFO - Inserted article into science: '8.6 light years away: Could Voyager 2 ever meet Sirius, the brightest star in Earth’s sky? - WION
+2025-09-07 03:43:04,603 - INFO - Inserted article into science: '444 light years away': Voyager 1 could pass Pleiades, the Seven Sisters of Taurus in 100 millions years - WION
+2025-09-07 03:43:04,603 - INFO - Inserted article into science: Fast-growing brains may explain how humans—and marmosets—learn to talk - Phys.org
+2025-09-07 03:43:04,603 - INFO - Inserted article into science: Europe’s largest paper mill? 1,500 research articles linked to Ukrainian network - Nature
+2025-09-07 03:43:04,603 - INFO - Inserted article into science: Chinese submersible explores previously unknown giant craters at the bottom of the Pacific — and they're teeming with life - Live Science
+2025-09-07 03:43:04,603 - INFO - Inserted article into science: Chemists cram record nine metals into trendy 2D material - Nature
+2025-09-07 03:43:04,603 - INFO - Inserted article into science: Most rodents have thumbnails instead of claws: It might help explain how they took over the world - Phys.org
+2025-09-07 03:43:04,603 - INFO - Inserted article into science: James Webb telescope spots odd disk around star that could shatter planet formation theories - Live Science
+2025-09-07 03:43:04,603 - INFO - Inserted article into science: Map of 600,000 brain cells rewrites the textbook on how the brain makes decisions - Live Science
+2025-09-07 03:43:04,603 - INFO - Inserted article into science: SpaceX Dragon reboosts the International Space Station - theregister.com
+2025-09-07 03:43:04,603 - INFO - Inserted article into science: Lull in Falcon Heavy missions opens window for SpaceX to build new landing pads - Ars Technica
+2025-09-07 03:43:04,603 - INFO - Inserted article into science: "Impossible To Imagine": Queen Ants Produce Babies Of 2 Different Species, And It's Never Been Seen Before - IFLScience
+2025-09-07 03:43:04,603 - INFO - Inserted article into science: Asteroid Fragment Reveals a Strange Mineral Never Seen on Earth - ScienceAlert
+2025-09-07 03:43:04,603 - INFO - Inserted article into science: The Math Says Life Shouldn’t Exist: New Study Challenges Origins Theories - SciTechDaily
+2025-09-07 03:43:04,603 - INFO - Inserted article into science: Gravitational waves reveal 'stellar graveyard' packed with neutron star and black hole mergers - Space
+2025-09-07 03:43:04,603 - INFO - Inserted article into science: Scientists might have accidentally discovered how lightning forms – from bending ice - TechSpot
+2025-09-07 03:43:04,603 - INFO - Inserted article into science: Scientists Discovered What’s Really At the Center of the Earth - yahoo.com
+2025-09-07 03:43:04,603 - INFO - Inserted article into science: What Happened During Flat-Earthers' "Final Experiment" In Antarctica - IFLScience
+2025-09-07 03:43:04,603 - INFO - Inserted article into science: Help! My Brother-in-Law Just Did Something Wildly Dangerous Because It’s “His Christian Duty.” I Want My Sister and Nephew Out of There. - Slate
+2025-09-07 03:43:04,603 - INFO - Inserted article into science: In 2020, humans suddenly vanished from a popular bay in Hawai‘i. What happened next was remarkable - BBC Wildlife Magazine
+2025-09-07 03:43:04,603 - INFO - Inserted article into science: Scientists once used a Concorde to hack the sky and turn a 7-minute solar eclipse into 74 minutes - supercarblondie.com
+2025-09-07 03:43:04,603 - INFO - Inserted article into science: Scientists create biodegradable plastic stronger than PET - ScienceDaily
+2025-09-07 03:43:04,603 - INFO - Inserted article into science: The observable universe is just 5% of reality, and 95% remains invisible - WION
+2025-09-07 03:43:04,603 - INFO - Inserted article into science: 50-Million-Year-Old Sea Turtle Unearthed in Syria Stuns Paleontologists - SciTechDaily
+2025-09-07 03:43:04,603 - INFO - Inserted article into science: 41,000 Years Ago, Something Weird in Space Changed How Humans Lived on Earth - SciTechDaily
+2025-09-07 03:43:04,619 - INFO - Inserting articles into database: 52 science articles found.
+2025-09-07 03:43:05,652 - INFO - Inserted article into technology: OpenAI reorganizes research team behind ChatGPT’s personality - TechCrunch
+2025-09-07 03:43:05,652 - INFO - Inserted article into technology: You can stay on Windows 10 for another year for free — if you act by Oct. 14 - Mashable
+2025-09-07 03:43:05,653 - INFO - Inserted article into technology: What to expect (and not expect) from yet another September Apple event - Ars Technica
+2025-09-07 03:43:05,653 - INFO - Inserted article into technology: Civilization VII team at Firaxis Games faces layoffs - Ars Technica
+2025-09-07 03:43:05,653 - INFO - Inserted article into technology: Personalized AI companion app Dot is shutting down - TechCrunch
+2025-09-07 03:43:05,654 - INFO - Inserted article into technology: Final Fantasy 7 Remake Part 3 Reveal Date Already Decided, Says Nomura - GameSpot
+2025-09-07 03:43:05,654 - INFO - Inserted article into technology: Lenovo demos laptop with a screen you can swivel into portrait mode - Ars Technica
+2025-09-07 03:43:05,654 - INFO - Inserted article into technology: I Used to Be Addicted to My Phone. This Tiny Piece of Plastic Changed Everything. - Slate
+2025-09-07 03:43:05,655 - INFO - Inserted article into technology: All Shakra Map Locations In Hollow Knight: Silksong - GameSpot
+2025-09-07 03:43:05,655 - INFO - Inserted article into technology: The Hearthstone Summer Championship Is Here! - Blizzard News
+2025-09-07 03:43:05,655 - INFO - Inserted article into technology: The Lenovo Legion Go 2 will get Xbox-flavored Windows in spring 2026 - The Verge
+2025-09-07 03:43:05,656 - INFO - Inserted article into technology: Motorola’s Razr overshadowed Samsung foldables in Q2 2025 shipments - 9to5Google
+2025-09-07 03:43:05,656 - INFO - Inserted article into technology: Cronos: The New Dawn Gets A Launch Trailer Specifically For Switch 2 - Nintendo Life
+2025-09-07 03:43:05,656 - INFO - Inserted article into technology: Apple’s Sept. 9 Event to Feature Next-Generation iPhone and Apple Watch - PYMNTS.com
+2025-09-07 03:43:05,657 - INFO - Inserted article into technology: I just went hands-on with the TCL QM9K — and it's one of TCL's most powerful TVs yet - Tom's Guide
+2025-09-07 03:43:05,657 - INFO - Inserted article into technology: First look at NBA 2K26 on Nintendo Switch 2 with gameplay - Nintendo Everything
+2025-09-07 03:43:05,657 - INFO - Inserted article into technology: Bose Looks to Fend Off Sony and Apple with Latest Headphones - Bloomberg.com
+2025-09-07 03:43:05,658 - INFO - Inserted article into technology: "I'm picking it up a lot faster" Hollow Knight newcomers and veterans respond to the first few hours of Silksong - Eurogamer
+2025-09-07 03:43:05,658 - INFO - Inserted article into technology: All the Top New Gadgets We Saw at IFA Berlin 2025 - WIRED
+2025-09-07 03:43:05,658 - INFO - Inserted article into technology: Google leaks its own new Nest Cams and Doorbell - The Verge
+2025-09-07 03:43:05,659 - INFO - Inserted article into technology: Heart Rate Monitoring Via WiFi - Hackaday
+2025-09-07 03:43:05,659 - INFO - Inserted article into technology: Metal Gear Solid Delta: Snake Eater surpasses a million sales on launch day - Eurogamer
+2025-09-07 03:43:05,659 - INFO - Inserted article into technology: Star Wars Outlaws on Switch 2 is a Game-Key Card because of storage speed, not cost, dev says - Video Games Chronicle
+2025-09-07 03:43:05,659 - INFO - Inserted article into technology: Male pattern baldness: 'Losing my hair at 16 has controlled me' - BBC
+2025-09-07 03:43:05,660 - INFO - Inserted article into technology: Current YouTube TV Subscribers Can Get 2 Month of Service For Just $49.99 A Month - | Cord Cutters News
+2025-09-07 03:43:05,660 - INFO - Inserted article into technology: Announcing the Total Victories Against Shiny Ting-Lu in Pokémon Scarlet and Pokémon Violet - Pokemon.com
+2025-09-07 03:43:05,660 - INFO - Inserted article into technology: Two Chronograph Icons May Have Just Changed the Watch Industry Forever - Gear Patrol
+2025-09-07 03:43:05,661 - INFO - Inserted article into technology: Nano Banana brings in 10 million new Gemini users - Android Police
+2025-09-07 03:43:05,661 - INFO - Inserted article into technology: The number of mis-issued 1.1.1.1 certificates grows. Here’s the latest. - Ars Technica
+2025-09-07 03:43:05,661 - INFO - Inserted article into technology: Indiana Jones and the Great Circle™: The Order of Giants DLC Available Now - Bethesda.net
+2025-09-07 03:43:05,662 - INFO - Inserted article into technology: GhostRedirector Hacks 65 Windows Servers Using Rungan Backdoor and Gamshen IIS Module - The Hacker News
+2025-09-07 03:43:05,662 - INFO - Inserted article into technology: ChatGPT will tell you the truth about how it works and it should clear up everything - TechRadar
+2025-09-07 03:43:05,662 - INFO - Inserted article into technology: Marvel Rivals Season 4 Patch Notes: Every Buff, Nerf, and New Team-Up Explained - The Game Post
+2025-09-07 03:43:05,662 - INFO - Inserted article into technology: The atrocities of Hell Is Us make me wonder if 'real-world' Soulslikes have a future - Rock Paper Shotgun
+2025-09-07 03:43:05,663 - INFO - Inserted article into technology: Technics launch the SL-40CBT / SL-50C direct drive turntables at CEDIA 2025, blending legendary engineering with modern style and convenience for today’s vinyl enthusiasts - Panasonic
+2025-09-07 03:43:05,663 - INFO - Inserted article into technology: Le Chêne Is a Movable Feast on Carmine Street - Grub Street
+2025-09-07 03:43:05,663 - INFO - Inserted article into technology: 5 Android phones you should buy instead of the Google Pixel 10 Pro - Android Authority
+2025-09-07 03:43:05,664 - INFO - Inserted article into technology: Huawei’s second trifold adds stylus support and purple pleather - The Verge
+2025-09-07 03:43:05,664 - INFO - Inserted article into technology: 007 First Light: 110 Screenshots From The New James Bond Action Game - GameSpot
+2025-09-07 03:43:05,664 - INFO - Inserted article into technology: Meet Samsung Galaxy S25 FE: The Gateway to the Galaxy AI and Flagship Essentials - Samsung Global Newsroom
+2025-09-07 03:43:05,664 - INFO - Inserted article into technology: Ready to ditch Windows 10? I debunked 7 Linux myths so you can switch with confidence - ZDNET
+2025-09-07 03:43:05,667 - INFO - Inserting articles into database: 41 technology articles found.
+2025-09-07 03:43:06,343 - INFO - Inserted article into health: COVID UPDATE! It's 2025! How Are We Going to Get Vaccinated? What’s the Deal With the New Variant? All That Stuff! - Lost Coast Outpost
+2025-09-07 03:43:06,343 - INFO - Inserted article into health: 'There needs to be signs': Pensacola mom speaks out amid vibrio case - WEAR-TV
+2025-09-07 03:43:06,344 - INFO - Inserted article into health: Kittens Ignored At Adoption Event Don't Know It's Because They're 'Different' - The Dodo
+2025-09-07 03:43:06,344 - INFO - Inserted article into health: Human West Nile virus case confirmed in Trumbull County - WKBN.com
+2025-09-07 03:43:06,345 - INFO - Inserted article into health: Just one minute of this exercise every day can literally add years to your life, says a new study - Earth.com
+2025-09-07 03:43:06,345 - INFO - Inserted article into health: Does Eating Broccoli Help Prevent Colon Cancer? Here’s the Truth. - Slate
+2025-09-07 03:43:06,345 - INFO - Inserted article into health: 15 dead after new Ebola outbreak in the Democratic Republic of Congo - The Washington Post
+2025-09-07 03:43:06,346 - INFO - Inserted article into health: For some, Medicare isn't covering the updated Covid vaccine yet - NBC News
+2025-09-07 03:43:06,346 - INFO - Inserted article into health: Neuroscience Says These 6 Minutes Can Increase Your Intelligence, Focus, and Decision-Making - Inc.com
+2025-09-07 03:43:06,346 - INFO - Inserted article into health: Cancer Doctors Reveal The Symptoms They Would Never Ignore - AOL.com
+2025-09-07 03:43:06,347 - INFO - Inserted article into health: “Insane”: Doctor Thought 9YO Girl Was Pregnant, But Found Hair And Teeth Growing Inside Her Instead - Bored Panda
+2025-09-07 03:43:06,347 - INFO - Inserted article into health: California cat euthanized after getting bird flu from raw cat food - NBC News
+2025-09-07 03:43:06,347 - INFO - Inserted article into health: Key NIH leader questioned vaccines, according to whistleblower complaints - The Washington Post
+2025-09-07 03:43:06,347 - INFO - Inserted article into health: Crap! Alarming new study links excessive phone use on toilet to painful health problem - MLive.com
+2025-09-07 03:43:06,348 - INFO - Inserted article into health: DOH confirms COVID-19 vaccine position with new Standing Order - Washington State Department of Health (.gov)
+2025-09-07 03:43:06,348 - INFO - Inserted article into health: New study claims obesity is driven by these two factors, not just diet and exercise, upending current beliefs - Earth.com
+2025-09-07 03:43:06,348 - INFO - Inserted article into health: Hope for diabetes: CRISPR-edited cells pump out insulin in a person – and evade immune detection - Nature
+2025-09-07 03:43:06,348 - INFO - Inserted article into health: American Heart Association revamps BP guidelines for the first time since 2017: Here's what it recommends for young adults as risk rises in their 20s and 30s - The Times of India
+2025-09-07 03:43:06,349 - INFO - Inserted article into health: Protein boosters and superbug scares, plus a trending military workout - Fox News
+2025-09-07 03:43:06,349 - INFO - Inserted article into health: WHO updates list of essential medicines to include key cancer, diabetes treatments - World Health Organization (WHO)
+2025-09-07 03:43:06,349 - INFO - Inserted article into health: Brain implant for stroke: Cleveland restaurant icon among first to try new treatment - Cleveland.com
+2025-09-07 03:43:06,350 - INFO - Inserted article into health: Plastic Discovered In More Than 50% of Plaques From Clogged Arteries - ScienceAlert
+2025-09-07 03:43:06,350 - INFO - Inserted article into health: Diet, not Lack of Exercise, is the True Driver of Obesity, Reveals IAEA Nutrition Database - IAEA
+2025-09-07 03:43:06,350 - INFO - Inserted article into health: Researchers Think They Found A New Alzheimer's Warning Sign—And It Has Nothing To Do With Memory Loss - yahoo.com
+2025-09-07 03:43:06,351 - INFO - Inserted article into health: Say goodbye to bald spots: New drug pp405 could regrow your hair naturally - Times of India
+2025-09-07 03:43:06,351 - INFO - Inserted article into health: 'One and done' dose of LSD keeps anxiety at bay : Shots - Health News - NPR
+2025-09-07 03:43:06,352 - INFO - Inserted article into health: Stop Eating Plastic: 7 Kitchen Items That Are Secretly Full of Microplastics - CNET
+2025-09-07 03:43:06,352 - INFO - Inserted article into health: Donavon Decker knew a gene therapy experiment wouldn’t help him. To help others, he still said yes - statnews.com
+2025-09-07 03:43:06,352 - INFO - Inserted article into health: What happens when you walk 10,000 steps every day? - The Indian Express
+2025-09-07 03:43:06,353 - INFO - Inserted article into health: Ultra-Processed Foods Add Fat Without Extra Calories and Disrupt Hormones - SciTechDaily
+2025-09-07 03:43:06,353 - INFO - Inserted article into health: Got the sniffles? What to know about summer colds and the COVID-19 variant called 'stratus' - KSL.com
+2025-09-07 03:43:06,353 - INFO - Inserted article into health: Sweeteners in diet drinks may steal years from the brain - ScienceDaily
+2025-09-07 03:43:06,353 - INFO - Inserted article into health: 'Kissing bug' spreading across US; All about the rare and deadly Chagas disease that can cause fatal hear - Times of India
+2025-09-07 03:43:06,353 - INFO - Inserted article into health: Drinking This Juice Could Help Lower Blood Pressure, New Study Suggests - AOL.com
+2025-09-07 03:43:06,354 - INFO - Inserted article into health: So … a Tick Just Made 500 People in Martha’s Vineyard Vegan - VegNews.com
+2025-09-07 03:43:06,354 - INFO - Inserted article into health: Air pollution directly linked to increased dementia risk - Nature
+2025-09-07 03:43:06,355 - INFO - Inserted article into health: One person dead, 21 infected with Legionnaires’ disease in Marshalltown - KWWL
+2025-09-07 03:43:06,355 - INFO - Inserted article into health: Experiencing pain? Sanjay Gupta explains why 'It Doesn't Have to Hurt' - NPR
+2025-09-07 03:43:06,355 - INFO - Inserted article into health: Dietary Intervention Could Slow Deadly Brain Cancer Growth - Neuroscience News
+2025-09-07 03:43:06,355 - INFO - Inserted article into health: Help! My Daughter Was Blessed With a Medical Miracle. Her Response Has Been Disgusting. - Slate
+2025-09-07 03:43:06,356 - INFO - Inserted article into health: This OTC nasal spray can actually prevent Covid - Daily Kos
+2025-09-07 03:43:06,356 - INFO - Inserted article into health: The Unexpected Skin Change That’s Linked to Heart Disease - yahoo.com
+2025-09-07 03:43:06,356 - INFO - Inserted article into health: Autism Gene Found to Alter Brain’s Social Hormone Signals - Neuroscience News
+2025-09-07 03:43:06,357 - INFO - Inserted article into health: A trace mineral may help guard the brain against Alzheimer’s, new study suggests - PsyPost
+2025-09-07 03:43:06,357 - INFO - Inserted article into health: Scientists reveal how breakfast timing may predict how long you live - ScienceDaily
+2025-09-07 03:43:06,357 - INFO - Inserted article into health: Heart attack: Common pill may not be helpful in all cases - MedicalNewsToday
+2025-09-07 03:43:06,358 - INFO - Inserted article into health: Tiny Lab-Grown Spinal Cords Could Hold the Key to Healing Paralysis - SciTechDaily
+2025-09-07 03:43:06,358 - INFO - Inserted article into health: Family advice: My bickering in-laws are impossible to be around. Now they've ruined my daughter's birthday party. - Slate
+2025-09-07 03:43:06,359 - INFO - Inserted article into health: One Diet Can Lower Genetic Risk For Alzheimer's, Scientists Discover - ScienceAlert
+2025-09-07 03:43:06,359 - INFO - Inserted article into health: Why Are Healthy Women Having Heart Attacks and Strokes? - bestlifeonline.com
+2025-09-07 03:43:06,359 - INFO - Inserted article into health: Nearly 7 Million Americans Live With Alzheimer’s — and Microplastic Consumption Could Be Making It Worse - Food & Wine
+2025-09-07 03:43:06,359 - INFO - Inserted article into health: 'I Went From Osteopenia To Doing Box Jumps And Deadlifts At 63. Here's My Exact Training Routine.' - Women's Health
+2025-09-07 03:43:06,360 - INFO - Inserted article into health: Scientists hail cancer breakthroughs - Semafor
+2025-09-07 03:43:06,360 - INFO - Inserted article into health: 5 surprising signs that you may be having a heart attack - The Washington Post
+2025-09-07 03:43:06,360 - INFO - Inserted article into health: Heard of the ‘chill pill’? Meet Propranolol, the nerve-calmer everyone’s talking about - The Times of India
+2025-09-07 03:43:06,361 - INFO - Inserted article into health: Largest cannabis study reveals dangers of self-medicating - BBC
+2025-09-07 03:43:06,361 - INFO - Inserted article into health: Colon cancer doctor shares five life-saving lessons: Symptoms and risks you should know - Times of India
+2025-09-07 03:43:06,363 - INFO - Inserting articles into database: 57 health articles found.
+2025-09-07 03:43:06,901 - INFO - Inserted article into entertainment: Comedian Ken Flores Died From Cocaine Use - TMZ
+2025-09-07 03:43:06,901 - INFO - Inserted article into entertainment: Blake Lively Makes Her First Public Appearance in Months Wearing a Completely Sheer Mesh Tank Top - instyle.com
+2025-09-07 03:43:06,901 - INFO - Inserted article into entertainment: Toronto Awards Analysis: Like It Or Not, Sydney Sweeney Has Joined the Best Actress Oscar Race for ‘Christy’ - The Hollywood Reporter
+2025-09-07 03:43:06,901 - INFO - Inserted article into entertainment: Priscilla Presley’s War with Advisers Reveals New Details of Lisa Marie’s Death - Rolling Stone
+2025-09-07 03:43:06,901 - INFO - Inserted article into entertainment: Mark Volman, Co-Founder of the Turtles and Vocalist on Flower Power Classic 'Happy Together,' Dead at 78 - Rolling Stone
+2025-09-07 03:43:06,901 - INFO - Inserted article into entertainment: WWE SmackDown Spoiler Lineup for September 5, 2025 - Ringside News
+2025-09-07 03:43:06,901 - INFO - Inserted article into entertainment: Star Wars: Darth Vader's lightsaber sells for £2.7m at LA auction - BBC
+2025-09-07 03:43:06,901 - INFO - Inserted article into entertainment: Orlando Bloom speaks out on Katy Perry breakup: ‘It’s nothing but love’ - yahoo.com
+2025-09-07 03:43:06,901 - INFO - Inserted article into entertainment: The man behind ‘Mare of Easttown’ is back with your next favorite show - The Washington Post
+2025-09-07 03:43:06,901 - INFO - Inserted article into entertainment: 5 Takeaways From Justin Bieber’s New Album SWAG II - Pitchfork
+2025-09-07 03:43:06,901 - INFO - Inserted article into entertainment: Ryan Reynolds wanted Bill Murray to appear in a John Candy documentary. Then Reynolds’ toddler stepped in - CNN
+2025-09-07 03:43:06,901 - INFO - Inserted article into entertainment: Morrissey No Longer Taking New Applications To Buy The Smiths - Stereogum
+2025-09-07 03:43:06,916 - INFO - Inserted article into entertainment: Mark Ruffalo Hasn't Seen Spider-Man Brand New Day Script, Talks Punisher - The Hollywood Reporter
+2025-09-07 03:43:06,916 - INFO - Inserted article into entertainment: Kate Just Responded to Comments About Her Blonde Hair Amid Accusations She Secretly Wore a Wig: ‘How Embarrassing… ‘ - yahoo.com
+2025-09-07 03:43:06,916 - INFO - Inserted article into entertainment: Exclusive | John Cena will get to make his Garden goodbye in end to WWE career - New York Post
+2025-09-07 03:43:06,916 - INFO - Inserted article into entertainment: TIFF: 15 Buzzy Films From Chris Evans, Angelina Jolie, Michaela Coel and More That Have Buyers Circling - Variety
+2025-09-07 03:43:06,916 - INFO - Inserted article into entertainment: A Look Back at Giorgio Armani’s Famous Wedding Dress Designs: From Katie Holmes to Princess Charlene - WWD
+2025-09-07 03:43:06,916 - INFO - Inserted article into entertainment: Charlie Sheen admits he was a sex addict, says he was extorted by partners - ABC News
+2025-09-07 03:43:06,916 - INFO - Inserted article into entertainment: New movies to watch this weekend: See 'The Conjuring: Last Rites' in theaters, rent 'Nobody 2,' stream 'Friendship' on Hulu - yahoo.com
+2025-09-07 03:43:06,916 - INFO - Inserted article into entertainment: The demons in 'The Conjuring' movies may not be real — but the family tragedies are - NPR
+2025-09-07 03:43:06,916 - INFO - Inserted article into entertainment: Here's Your Horoscope For Friday, September 5 - Bustle
+2025-09-07 03:43:06,916 - INFO - Inserted article into entertainment: Gaza movie ‘The Voice of Hind Rajab’ devastates Venice audiences - The Washington Post
+2025-09-07 03:43:06,916 - INFO - Inserted article into entertainment: The White Lotus Season 4’s New Location Finally Revealed - Comic Book Resources
+2025-09-07 03:43:06,916 - INFO - Inserted article into entertainment: ‘The Lowdown’: Ethan Hawke Is a Mad Genius in This Gloriously Off-Kilter Noir - Rolling Stone
+2025-09-07 03:43:06,916 - INFO - Inserted article into entertainment: I’m a newspaper reporter, and I regret to report ‘The Paper’ is actually pretty funny - OregonLive.com
+2025-09-07 03:43:06,916 - INFO - Inserted article into entertainment: Report: Heidi Gardner’s SNL Exit Wasn’t Her Decision - LateNighter
+2025-09-07 03:43:06,916 - INFO - Inserted article into entertainment: Sony Pictures CEO Stands by Selling ‘KPop Demon Hunters’ to Netflix: ‘We’re Happy When Our Clients Do Well’ - Variety
+2025-09-07 03:43:06,916 - INFO - Inserted article into entertainment: ‘Street Fighter’ Moves to Paramount as Legendary Deal Becomes Official - The Hollywood Reporter
+2025-09-07 03:43:06,916 - INFO - Inserted article into entertainment: Stephen King Says Superhero Movie Violence Is ‘Almost Pornographic’ and ‘That’s Wrong’: City Blocks Are Destroyed and ‘You Never See Any Blood’ - Variety
+2025-09-07 03:43:06,916 - INFO - Inserting articles into database: 29 entertainment articles found.
