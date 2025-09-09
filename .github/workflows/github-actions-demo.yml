@@ -2,19 +2,20 @@ name: Daily News Job
 
 on:
   schedule:
-    - cron: "0 9 * * *"
+    - cron: "05 9 * * *"
   workflow_dispatch:
 
 jobs:
   run-news-script:
-    runs-on: ubuntu-latest   # use Linux, easier with services
+    runs-on: ubuntu-latest
+
     services:
       postgres:
         image: postgres:14
         env:
-          POSTGRES_USER: ${{ secrets.DB_USER }}
-          POSTGRES_PASSWORD: ${{ secrets.DB_PASSWORD }}
-          POSTGRES_DB: ${{ secrets.DB_NAME }}
+          POSTGRES_USER: ${{ secrets.DB_USER }}        # map DB_USER to POSTGRES_USER
+          POSTGRES_PASSWORD: ${{ secrets.DB_PASSWORD }} # map DB_PASSWORD to POSTGRES_PASSWORD
+          POSTGRES_DB: ${{ secrets.DB_NAME }}           # map DB_NAME to POSTGRES_DB
         ports:
           - 5432:5432
         options: >-
