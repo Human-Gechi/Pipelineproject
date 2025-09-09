@@ -2,7 +2,7 @@ name: Daily News Job
 
 on:
   schedule:
-    - cron: "12 9 * * *"
+    - cron: "15 9 * * *"
   workflow_dispatch:
 
 jobs:
@@ -13,13 +13,13 @@ jobs:
       postgres:
         image: postgres:14
         env:
-          POSTGRES_USER: ${{ secrets.DB_USER }}        # map DB_USER to POSTGRES_USER
-          POSTGRES_PASSWORD: ${{ secrets.DB_PASSWORD }} # map DB_PASSWORD to POSTGRES_PASSWORD
-          POSTGRES_DB: ${{ secrets.DB_NAME }}           # map DB_NAME to POSTGRES_DB
+          POSTGRES_USER: ${{ DBPASS.DB_USER }}        # map DB_USER to POSTGRES_USER
+          POSTGRES_PASSWORD: ${{ DBPASS.DB_PASSWORD }} # map DB_PASSWORD to POSTGRES_PASSWORD
+          POSTGRES_DB: ${{ DBPASS.DB_NAME }}           # map DB_NAME to POSTGRES_DB
         ports:
           - 5432:5432
         options: >-
-          --health-cmd "pg_isready -U ${{ secrets.DB_USER }}"
+          --health-cmd "pg_isready -U ${{ DBPASS.DB_USER }}"
           --health-interval 10s
           --health-timeout 5s
           --health-retries 5
@@ -39,8 +39,8 @@ jobs:
         env:
           DB_HOST: localhost
           DB_PORT: 5432
-          DB_USER: ${{ secrets.DB_USER }}
-          DB_PASSWORD: ${{ secrets.DB_PASSWORD }}
-          DB_NAME: ${{ secrets.DB_NAME }}
-          API_KEY: ${{ secrets.API_KEY }}
+          DB_USER: ${{ DBPASS.DB_USER }}
+          DB_PASSWORD: ${{ DBPASS.DB_PASSWORD }}
+          DB_NAME: ${{ DBPASS.DB_NAME }}
+          API_KEY: ${{ DBPASS.API_KEY }}
         run: python scripts/load_to_db.py
