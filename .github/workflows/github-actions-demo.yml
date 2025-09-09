@@ -1,12 +1,25 @@
 name: Daily News Job
 on:
   schedule:
-    - cron: "55 9 * * *"
+    - cron: "0 9 * * *"
   workflow_dispatch:
 jobs:
   run-news-script:
     runs-on: ubuntu-latest
-
+    services:
+      postgres:
+        image: postgres:14
+        env:
+          POSTGRES_USER: postgres
+          POSTGRES_PASSWORD: SuperStrongPassword
+          POSTGRES_DB: newsdb
+        ports:
+          - 5432:5432
+        options: >-
+          --health-cmd "pg_isready -U postgres"
+          --health-interval 10s
+          --health-timeout 5s
+          --health-retries 5
     steps:
       - uses: actions/checkout@v4
       - name: Set up Python
