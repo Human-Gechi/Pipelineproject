@@ -1,46 +1,17 @@
 name: Daily News Job
-
 on:
   schedule:
-    - cron: "30 9 * * *"   # 09:00 UTC = 10:00 Nigeria
+    - cron: "0 9 * * *"   # Fixed cron expression
   workflow_dispatch:
-
 jobs:
   run-news-script:
     runs-on: ubuntu-latest
-
     services:
       postgres:
-        image: postgres:14
-        env:
-          POSTGRES_USER: ${{ secrets.DB_USER }}
-          POSTGRES_PASSWORD: ${{ secrets.DB_PASSWORD }}
-          POSTGRES_DB: ${{ secrets.DB_NAME }}
-        ports:
-          - 5432:5432
-        options: >-
-          --health-cmd "pg_isready -U ${{ secrets.DB_USER }}"
-          --health-interval 10s
-          --health-timeout 5s
-          --health-retries 5
-
+        # ... your postgres config
     steps:
-      - uses: actions/checkout@v4
-
-      - name: Set up Python
-        uses: actions/setup-python@v4
-        with:
-          python-version: "3.10"
-
-      - name: Install dependencies
-        run: pip install -r requirements.txt
-
+      # ... your steps
+      - name: Create .env file
+        run: echo "${{ secrets.CONFIG }}" > .env  # This pulls from repo secrets
       - name: Run news script
-        env:
-          DB_HOST: localhost
-          DB_PORT: 5432
-          DB_USER: ${{ secrets.DB_USER }}
-          DB_PASSWORD: ${{ secrets.DB_PASSWORD }}
-          DB_NAME: ${{ secrets.DB_NAME }}
-          API_KEY: ${{ secrets.API_KEY }}
         run: python scripts/load_to_db.py
